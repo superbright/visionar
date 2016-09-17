@@ -92,6 +92,21 @@ public class AnimationHandler : MonoBehaviour
 			LeanTween.move (positionobject, new Vector3 (pos.x - 5, pos.y, pos.z), 0.4f);
 			Debug.Log (new Vector3 (pos.x-5, pos.y, pos.z));
 		}
+		if (GUI.Button (new Rect (10, 310, 300, 60), "Move POS X +5")) {
+			Vector3 pos = positionobject.transform.position;
+			LeanTween.move (positionobject, new Vector3 (pos.x +5, pos.y, pos.z), 0.4f);
+			Debug.Log (new Vector3 (pos.x+5, pos.y, pos.z));
+		}
+		if (GUI.Button (new Rect (10, 370, 300, 60), "Move POS Z -5")) {
+			Vector3 pos = positionobject.transform.position;
+			LeanTween.move (positionobject, new Vector3 (pos.x, pos.y, pos.z - 5), 0.4f);
+			Debug.Log (new Vector3 (pos.x, pos.y, pos.z-5));
+		}
+		if (GUI.Button (new Rect (10, 430, 300, 60), "Move POS Z +5")) {
+			Vector3 pos = positionobject.transform.position;
+			LeanTween.move (positionobject, new Vector3 (pos.x, pos.y, pos.z + 5), 0.4f);
+			Debug.Log (new Vector3 (pos.x, pos.y, pos.z + 5));
+		}
 
 	}
 

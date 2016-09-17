@@ -1,0 +1,2527 @@
+fileFormatVersion: 2
+guid: 78fc1c35a41dfef45bc60859f58ab775
+timeCreated: 1474083072
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 10_red_large_outlines___Left
+    100002: 5_black_square1
+    100004: 5_black_square1___Look3___Item2
+    100006: 5_black_square2
+    100008: 5_black_square_3
+    100010: 5_black_square_4
+    100012: 5_black_square___Left
+    100014: 5_black_square___Look4___Item2
+    100016: 5_black_square___red_3
+    100018: 6_pale_blue_3
+    100020: 6_pale_blue_4___Look4___item1
+    100022: 6_pale_blue_5___Look3___item3
+    100024: 6_pale_blue___array1
+    100026: 6_pale_blue___array2
+    100028: 6_pale_blue___array3
+    100030: 6_pale_blue___Left
+    100032: 7_pale_green
+    100034: 7_pale_green_2
+    100036: 7_pale_green___array_1
+    100038: 7_pale_green___array_1_2
+    100040: 7_pale_green___Left
+    100042: 8_pale_light_blue___blinds1
+    100044: 8_pale_light_blue___blinds1_2
+    100046: 8_pale_light_blue___blinds1_3
+    100048: 8_pale_light_blue___blinds1_4
+    100050: 8_pale_light_blue___blinds1_5
+    100052: 8_pale_light_blue___Left
+    100054: 8_pale_light_blue___squares
+    100056: 8_pale_light_blue___squares_2
+    100058: 8_pale_light_blue___squares___Look3___Item1
+    100060: 9_red_small___dash
+    100062: 9_red_small___Left
+    100064: 9_red_small___x
+    100066: 9_red_small___x_1
+    100068: 9_red_small___x_2
+    100070: CENTER
+    100072: //RootNode
+    100074: CINEMA_4D_Editor
+    100076: DOUBLE__6_pale_blue_2
+    100078: DOUBLE___10_red_large_outlines___Left
+    100080: DOUBLE___10_red_large_outlines___Left_2
+    100082: DOUBLE___5_black_square___red
+    100084: DOUBLE___5_black_square___red_2
+    100086: DOUBLE___6_pale_blue_1_
+    100088: DOUBLE___7_pale_green_2_2
+    100090: DOUBLE___8_pale_light_blue___squares
+    100092: DOUBLE___9_red_small___circles
+    100094: DOUBLE___9_red_small___circles_2
+    100096: DOUBLE___9_red_small___dash_2
+    100098: DOUBLE___9_red_small___dot
+    100100: DOUBLE___9_red_small___dot_2
+    400000: 10_red_large_outlines___Left
+    400002: 5_black_square1
+    400004: 5_black_square1___Look3___Item2
+    400006: 5_black_square2
+    400008: 5_black_square_3
+    400010: 5_black_square_4
+    400012: 5_black_square___Left
+    400014: 5_black_square___Look4___Item2
+    400016: 5_black_square___red_3
+    400018: 6_pale_blue_3
+    400020: 6_pale_blue_4___Look4___item1
+    400022: 6_pale_blue_5___Look3___item3
+    400024: 6_pale_blue___array1
+    400026: 6_pale_blue___array2
+    400028: 6_pale_blue___array3
+    400030: 6_pale_blue___Left
+    400032: 7_pale_green
+    400034: 7_pale_green_2
+    400036: 7_pale_green___array_1
+    400038: 7_pale_green___array_1_2
+    400040: 7_pale_green___Left
+    400042: 8_pale_light_blue___blinds1
+    400044: 8_pale_light_blue___blinds1_2
+    400046: 8_pale_light_blue___blinds1_3
+    400048: 8_pale_light_blue___blinds1_4
+    400050: 8_pale_light_blue___blinds1_5
+    400052: 8_pale_light_blue___Left
+    400054: 8_pale_light_blue___squares
+    400056: 8_pale_light_blue___squares_2
+    400058: 8_pale_light_blue___squares___Look3___Item1
+    400060: 9_red_small___dash
+    400062: 9_red_small___Left
+    400064: 9_red_small___x
+    400066: 9_red_small___x_1
+    400068: 9_red_small___x_2
+    400070: CENTER
+    400072: //RootNode
+    400074: CINEMA_4D_Editor
+    400076: DOUBLE__6_pale_blue_2
+    400078: DOUBLE___10_red_large_outlines___Left
+    400080: DOUBLE___10_red_large_outlines___Left_2
+    400082: DOUBLE___5_black_square___red
+    400084: DOUBLE___5_black_square___red_2
+    400086: DOUBLE___6_pale_blue_1_
+    400088: DOUBLE___7_pale_green_2_2
+    400090: DOUBLE___8_pale_light_blue___squares
+    400092: DOUBLE___9_red_small___circles
+    400094: DOUBLE___9_red_small___circles_2
+    400096: DOUBLE___9_red_small___dash_2
+    400098: DOUBLE___9_red_small___dot
+    400100: DOUBLE___9_red_small___dot_2
+    2300000: 5_black_square1
+    2300002: 5_black_square1___Look3___Item2
+    2300004: 5_black_square2
+    2300006: 5_black_square_3
+    2300008: 5_black_square_4
+    2300010: 5_black_square___Look4___Item2
+    2300012: 5_black_square___red_3
+    2300014: 6_pale_blue_3
+    2300016: 6_pale_blue_4___Look4___item1
+    2300018: 6_pale_blue_5___Look3___item3
+    2300020: 6_pale_blue___array1
+    2300022: 6_pale_blue___array2
+    2300024: 6_pale_blue___array3
+    2300026: 7_pale_green
+    2300028: 7_pale_green_2
+    2300030: 7_pale_green___array_1
+    2300032: 7_pale_green___array_1_2
+    2300034: 8_pale_light_blue___blinds1
+    2300036: 8_pale_light_blue___blinds1_2
+    2300038: 8_pale_light_blue___blinds1_3
+    2300040: 8_pale_light_blue___blinds1_4
+    2300042: 8_pale_light_blue___blinds1_5
+    2300044: 8_pale_light_blue___squares
+    2300046: 8_pale_light_blue___squares_2
+    2300048: 8_pale_light_blue___squares___Look3___Item1
+    2300050: 9_red_small___dash
+    2300052: 9_red_small___x
+    2300054: 9_red_small___x_1
+    2300056: 9_red_small___x_2
+    2300058: DOUBLE__6_pale_blue_2
+    2300060: DOUBLE___10_red_large_outlines___Left
+    2300062: DOUBLE___10_red_large_outlines___Left_2
+    2300064: DOUBLE___5_black_square___red
+    2300066: DOUBLE___5_black_square___red_2
+    2300068: DOUBLE___6_pale_blue_1_
+    2300070: DOUBLE___7_pale_green_2_2
+    2300072: DOUBLE___8_pale_light_blue___squares
+    2300074: DOUBLE___9_red_small___circles
+    2300076: DOUBLE___9_red_small___circles_2
+    2300078: DOUBLE___9_red_small___dash_2
+    2300080: DOUBLE___9_red_small___dot
+    2300082: DOUBLE___9_red_small___dot_2
+    3300000: 5_black_square1
+    3300002: 5_black_square1___Look3___Item2
+    3300004: 5_black_square2
+    3300006: 5_black_square_3
+    3300008: 5_black_square_4
+    3300010: 5_black_square___Look4___Item2
+    3300012: 5_black_square___red_3
+    3300014: 6_pale_blue_3
+    3300016: 6_pale_blue_4___Look4___item1
+    3300018: 6_pale_blue_5___Look3___item3
+    3300020: 6_pale_blue___array1
+    3300022: 6_pale_blue___array2
+    3300024: 6_pale_blue___array3
+    3300026: 7_pale_green
+    3300028: 7_pale_green_2
+    3300030: 7_pale_green___array_1
+    3300032: 7_pale_green___array_1_2
+    3300034: 8_pale_light_blue___blinds1
+    3300036: 8_pale_light_blue___blinds1_2
+    3300038: 8_pale_light_blue___blinds1_3
+    3300040: 8_pale_light_blue___blinds1_4
+    3300042: 8_pale_light_blue___blinds1_5
+    3300044: 8_pale_light_blue___squares
+    3300046: 8_pale_light_blue___squares_2
+    3300048: 8_pale_light_blue___squares___Look3___Item1
+    3300050: 9_red_small___dash
+    3300052: 9_red_small___x
+    3300054: 9_red_small___x_1
+    3300056: 9_red_small___x_2
+    3300058: DOUBLE__6_pale_blue_2
+    3300060: DOUBLE___10_red_large_outlines___Left
+    3300062: DOUBLE___10_red_large_outlines___Left_2
+    3300064: DOUBLE___5_black_square___red
+    3300066: DOUBLE___5_black_square___red_2
+    3300068: DOUBLE___6_pale_blue_1_
+    3300070: DOUBLE___7_pale_green_2_2
+    3300072: DOUBLE___8_pale_light_blue___squares
+    3300074: DOUBLE___9_red_small___circles
+    3300076: DOUBLE___9_red_small___circles_2
+    3300078: DOUBLE___9_red_small___dash_2
+    3300080: DOUBLE___9_red_small___dot
+    3300082: DOUBLE___9_red_small___dot_2
+    4300000: DOUBLE___5_black_square___red
+    4300002: DOUBLE___5_black_square___red_2
+    4300004: 5_black_square___red_3
+    4300006: 5_black_square1
+    4300008: 5_black_square1___Look3___Item2
+    4300010: 5_black_square___Look4___Item2
+    4300012: 5_black_square2
+    4300014: 5_black_square_3
+    4300016: 5_black_square_4
+    4300018: 6_pale_blue___array1
+    4300020: 6_pale_blue___array2
+    4300022: 6_pale_blue___array3
+    4300024: DOUBLE___6_pale_blue_1_
+    4300026: DOUBLE__6_pale_blue_2
+    4300028: 6_pale_blue_3
+    4300030: 6_pale_blue_4___Look4___item1
+    4300032: 6_pale_blue_5___Look3___item3
+    4300034: 7_pale_green___array_1
+    4300036: 7_pale_green___array_1_2
+    4300038: 7_pale_green_2
+    4300040: DOUBLE___7_pale_green_2_2
+    4300042: 7_pale_green
+    4300044: 8_pale_light_blue___blinds1
+    4300046: 8_pale_light_blue___blinds1_2
+    4300048: 8_pale_light_blue___blinds1_3
+    4300050: 8_pale_light_blue___blinds1_4
+    4300052: 8_pale_light_blue___blinds1_5
+    4300054: DOUBLE___8_pale_light_blue___squares
+    4300056: 8_pale_light_blue___squares___Look3___Item1
+    4300058: 8_pale_light_blue___squares
+    4300060: 8_pale_light_blue___squares_2
+    4300062: DOUBLE___9_red_small___circles
+    4300064: DOUBLE___9_red_small___circles_2
+    4300066: 9_red_small___x
+    4300068: 9_red_small___dash
+    4300070: DOUBLE___9_red_small___dash_2
+    4300072: DOUBLE___9_red_small___dot
+    4300074: DOUBLE___9_red_small___dot_2
+    4300076: 9_red_small___x_1
+    4300078: 9_red_small___x_2
+    4300080: DOUBLE___10_red_large_outlines___Left
+    4300082: DOUBLE___10_red_large_outlines___Left_2
+    7400000: IDLE
+    7400002: INTRO
+    7400004: Look1 - 1
+    7400006: Look1 - 2
+    7400008: Look1 - 3
+    7400010: Look1 - 4
+    7400012: Look2 - 1
+    7400014: Look2 - 2
+    7400016: Look2 - 3
+    7400018: Look2 - 4
+    7400020: Look3 - 1
+    7400022: Look3 - 2
+    7400024: Look3 - 3
+    7400026: Look3 - 4
+    7400028: Look4 - 1
+    7400030: Look4 - 2
+    7400032: Look4 - 3
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: IDLE
+      takeName: Main
+      firstFrame: 0
+      lastFrame: 4578
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CENTER
+        weight: 1
+      - path: CENTER/5_black_square___Left
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square1
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square1___Look3___Item2
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square2
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square_3
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square_4
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square___Look4___Item2
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square___red_3
+        weight: 1
+      - path: CENTER/5_black_square___Left/DOUBLE___5_black_square___red
+        weight: 1
+      - path: CENTER/5_black_square___Left/DOUBLE___5_black_square___red_2
+        weight: 1
+      - path: CENTER/6_pale_blue___Left
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue_3
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue_4___Look4___item1
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue_5___Look3___item3
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue___array1
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue___array2
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue___array3
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/DOUBLE__6_pale_blue_2
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/DOUBLE___6_pale_blue_1_
+        weight: 1
+      - path: CENTER/7_pale_green___Left
+        weight: 1
+      - path: CENTER/7_pale_green___Left/7_pale_green
+        weight: 1
+      - path: CENTER/7_pale_green___Left/7_pale_green_2
+        weight: 1
+      - path: CENTER/7_pale_green___Left/7_pale_green___array_1
+        weight: 1
+      - path: CENTER/7_pale_green___Left/7_pale_green___array_1_2
+        weight: 1
+      - path: CENTER/7_pale_green___Left/DOUBLE___7_pale_green_2_2
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___blinds1
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___blinds1_2
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___blinds1_3
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___blinds1_4
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___blinds1_5
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___squares
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___squares_2
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___squares___Look3___Item1
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/DOUBLE___8_pale_light_blue___squares
+        weight: 1
+      - path: CENTER/9_red_small___Left
+        weight: 1
+      - path: CENTER/9_red_small___Left/9_red_small___dash
+        weight: 1
+      - path: CENTER/9_red_small___Left/9_red_small___x
+        weight: 1
+      - path: CENTER/9_red_small___Left/9_red_small___x_1
+        weight: 1
+      - path: CENTER/9_red_small___Left/9_red_small___x_2
+        weight: 1
+      - path: CENTER/9_red_small___Left/DOUBLE___9_red_small___circles
+        weight: 1
+      - path: CENTER/9_red_small___Left/DOUBLE___9_red_small___circles_2
+        weight: 1
+      - path: CENTER/9_red_small___Left/DOUBLE___9_red_small___dash_2
+        weight: 1
+      - path: CENTER/9_red_small___Left/DOUBLE___9_red_small___dot
+        weight: 1
+      - path: CENTER/9_red_small___Left/DOUBLE___9_red_small___dot_2
+        weight: 1
+      - path: CENTER/10_red_large_outlines___Left
+        weight: 1
+      - path: CENTER/10_red_large_outlines___Left/DOUBLE___10_red_large_outlines___Left
+        weight: 1
+      - path: CENTER/10_red_large_outlines___Left/DOUBLE___10_red_large_outlines___Left_2
+        weight: 1
+      - path: CINEMA_4D_Editor
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: INTRO
+      takeName: Main
+      firstFrame: 0
+      lastFrame: 300
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CENTER
+        weight: 1
+      - path: CENTER/5_black_square___Left
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square1
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square1___Look3___Item2
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square2
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square_3
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square_4
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square___Look4___Item2
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square___red_3
+        weight: 1
+      - path: CENTER/5_black_square___Left/DOUBLE___5_black_square___red
+        weight: 1
+      - path: CENTER/5_black_square___Left/DOUBLE___5_black_square___red_2
+        weight: 1
+      - path: CENTER/6_pale_blue___Left
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue_3
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue_4___Look4___item1
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue_5___Look3___item3
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue___array1
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue___array2
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue___array3
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/DOUBLE__6_pale_blue_2
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/DOUBLE___6_pale_blue_1_
+        weight: 1
+      - path: CENTER/7_pale_green___Left
+        weight: 1
+      - path: CENTER/7_pale_green___Left/7_pale_green
+        weight: 1
+      - path: CENTER/7_pale_green___Left/7_pale_green_2
+        weight: 1
+      - path: CENTER/7_pale_green___Left/7_pale_green___array_1
+        weight: 1
+      - path: CENTER/7_pale_green___Left/7_pale_green___array_1_2
+        weight: 1
+      - path: CENTER/7_pale_green___Left/DOUBLE___7_pale_green_2_2
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___blinds1
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___blinds1_2
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___blinds1_3
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___blinds1_4
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___blinds1_5
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___squares
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___squares_2
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___squares___Look3___Item1
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/DOUBLE___8_pale_light_blue___squares
+        weight: 1
+      - path: CENTER/9_red_small___Left
+        weight: 1
+      - path: CENTER/9_red_small___Left/9_red_small___dash
+        weight: 1
+      - path: CENTER/9_red_small___Left/9_red_small___x
+        weight: 1
+      - path: CENTER/9_red_small___Left/9_red_small___x_1
+        weight: 1
+      - path: CENTER/9_red_small___Left/9_red_small___x_2
+        weight: 1
+      - path: CENTER/9_red_small___Left/DOUBLE___9_red_small___circles
+        weight: 1
+      - path: CENTER/9_red_small___Left/DOUBLE___9_red_small___circles_2
+        weight: 1
+      - path: CENTER/9_red_small___Left/DOUBLE___9_red_small___dash_2
+        weight: 1
+      - path: CENTER/9_red_small___Left/DOUBLE___9_red_small___dot
+        weight: 1
+      - path: CENTER/9_red_small___Left/DOUBLE___9_red_small___dot_2
+        weight: 1
+      - path: CENTER/10_red_large_outlines___Left
+        weight: 1
+      - path: CENTER/10_red_large_outlines___Left/DOUBLE___10_red_large_outlines___Left
+        weight: 1
+      - path: CENTER/10_red_large_outlines___Left/DOUBLE___10_red_large_outlines___Left_2
+        weight: 1
+      - path: CINEMA_4D_Editor
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Look1 - 1
+      takeName: Main
+      firstFrame: 301
+      lastFrame: 600
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CENTER
+        weight: 1
+      - path: CENTER/5_black_square___Left
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square1
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square1___Look3___Item2
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square2
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square_3
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square_4
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square___Look4___Item2
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square___red_3
+        weight: 1
+      - path: CENTER/5_black_square___Left/DOUBLE___5_black_square___red
+        weight: 1
+      - path: CENTER/5_black_square___Left/DOUBLE___5_black_square___red_2
+        weight: 1
+      - path: CENTER/6_pale_blue___Left
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue_3
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue_4___Look4___item1
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue_5___Look3___item3
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue___array1
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue___array2
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue___array3
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/DOUBLE__6_pale_blue_2
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/DOUBLE___6_pale_blue_1_
+        weight: 1
+      - path: CENTER/7_pale_green___Left
+        weight: 1
+      - path: CENTER/7_pale_green___Left/7_pale_green
+        weight: 1
+      - path: CENTER/7_pale_green___Left/7_pale_green_2
+        weight: 1
+      - path: CENTER/7_pale_green___Left/7_pale_green___array_1
+        weight: 1
+      - path: CENTER/7_pale_green___Left/7_pale_green___array_1_2
+        weight: 1
+      - path: CENTER/7_pale_green___Left/DOUBLE___7_pale_green_2_2
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___blinds1
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___blinds1_2
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___blinds1_3
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___blinds1_4
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___blinds1_5
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___squares
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___squares_2
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___squares___Look3___Item1
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/DOUBLE___8_pale_light_blue___squares
+        weight: 1
+      - path: CENTER/9_red_small___Left
+        weight: 1
+      - path: CENTER/9_red_small___Left/9_red_small___dash
+        weight: 1
+      - path: CENTER/9_red_small___Left/9_red_small___x
+        weight: 1
+      - path: CENTER/9_red_small___Left/9_red_small___x_1
+        weight: 1
+      - path: CENTER/9_red_small___Left/9_red_small___x_2
+        weight: 1
+      - path: CENTER/9_red_small___Left/DOUBLE___9_red_small___circles
+        weight: 1
+      - path: CENTER/9_red_small___Left/DOUBLE___9_red_small___circles_2
+        weight: 1
+      - path: CENTER/9_red_small___Left/DOUBLE___9_red_small___dash_2
+        weight: 1
+      - path: CENTER/9_red_small___Left/DOUBLE___9_red_small___dot
+        weight: 1
+      - path: CENTER/9_red_small___Left/DOUBLE___9_red_small___dot_2
+        weight: 1
+      - path: CENTER/10_red_large_outlines___Left
+        weight: 1
+      - path: CENTER/10_red_large_outlines___Left/DOUBLE___10_red_large_outlines___Left
+        weight: 1
+      - path: CENTER/10_red_large_outlines___Left/DOUBLE___10_red_large_outlines___Left_2
+        weight: 1
+      - path: CINEMA_4D_Editor
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Look1 - 2
+      takeName: Main
+      firstFrame: 601
+      lastFrame: 900
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CENTER
+        weight: 1
+      - path: CENTER/5_black_square___Left
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square1
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square1___Look3___Item2
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square2
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square_3
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square_4
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square___Look4___Item2
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square___red_3
+        weight: 1
+      - path: CENTER/5_black_square___Left/DOUBLE___5_black_square___red
+        weight: 1
+      - path: CENTER/5_black_square___Left/DOUBLE___5_black_square___red_2
+        weight: 1
+      - path: CENTER/6_pale_blue___Left
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue_3
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue_4___Look4___item1
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue_5___Look3___item3
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue___array1
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue___array2
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue___array3
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/DOUBLE__6_pale_blue_2
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/DOUBLE___6_pale_blue_1_
+        weight: 1
+      - path: CENTER/7_pale_green___Left
+        weight: 1
+      - path: CENTER/7_pale_green___Left/7_pale_green
+        weight: 1
+      - path: CENTER/7_pale_green___Left/7_pale_green_2
+        weight: 1
+      - path: CENTER/7_pale_green___Left/7_pale_green___array_1
+        weight: 1
+      - path: CENTER/7_pale_green___Left/7_pale_green___array_1_2
+        weight: 1
+      - path: CENTER/7_pale_green___Left/DOUBLE___7_pale_green_2_2
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___blinds1
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___blinds1_2
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___blinds1_3
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___blinds1_4
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___blinds1_5
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___squares
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___squares_2
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___squares___Look3___Item1
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/DOUBLE___8_pale_light_blue___squares
+        weight: 1
+      - path: CENTER/9_red_small___Left
+        weight: 1
+      - path: CENTER/9_red_small___Left/9_red_small___dash
+        weight: 1
+      - path: CENTER/9_red_small___Left/9_red_small___x
+        weight: 1
+      - path: CENTER/9_red_small___Left/9_red_small___x_1
+        weight: 1
+      - path: CENTER/9_red_small___Left/9_red_small___x_2
+        weight: 1
+      - path: CENTER/9_red_small___Left/DOUBLE___9_red_small___circles
+        weight: 1
+      - path: CENTER/9_red_small___Left/DOUBLE___9_red_small___circles_2
+        weight: 1
+      - path: CENTER/9_red_small___Left/DOUBLE___9_red_small___dash_2
+        weight: 1
+      - path: CENTER/9_red_small___Left/DOUBLE___9_red_small___dot
+        weight: 1
+      - path: CENTER/9_red_small___Left/DOUBLE___9_red_small___dot_2
+        weight: 1
+      - path: CENTER/10_red_large_outlines___Left
+        weight: 1
+      - path: CENTER/10_red_large_outlines___Left/DOUBLE___10_red_large_outlines___Left
+        weight: 1
+      - path: CENTER/10_red_large_outlines___Left/DOUBLE___10_red_large_outlines___Left_2
+        weight: 1
+      - path: CINEMA_4D_Editor
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Look1 - 3
+      takeName: Main
+      firstFrame: 901
+      lastFrame: 1200
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CENTER
+        weight: 1
+      - path: CENTER/5_black_square___Left
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square1
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square1___Look3___Item2
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square2
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square_3
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square_4
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square___Look4___Item2
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square___red_3
+        weight: 1
+      - path: CENTER/5_black_square___Left/DOUBLE___5_black_square___red
+        weight: 1
+      - path: CENTER/5_black_square___Left/DOUBLE___5_black_square___red_2
+        weight: 1
+      - path: CENTER/6_pale_blue___Left
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue_3
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue_4___Look4___item1
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue_5___Look3___item3
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue___array1
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue___array2
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue___array3
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/DOUBLE__6_pale_blue_2
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/DOUBLE___6_pale_blue_1_
+        weight: 1
+      - path: CENTER/7_pale_green___Left
+        weight: 1
+      - path: CENTER/7_pale_green___Left/7_pale_green
+        weight: 1
+      - path: CENTER/7_pale_green___Left/7_pale_green_2
+        weight: 1
+      - path: CENTER/7_pale_green___Left/7_pale_green___array_1
+        weight: 1
+      - path: CENTER/7_pale_green___Left/7_pale_green___array_1_2
+        weight: 1
+      - path: CENTER/7_pale_green___Left/DOUBLE___7_pale_green_2_2
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___blinds1
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___blinds1_2
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___blinds1_3
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___blinds1_4
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___blinds1_5
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___squares
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___squares_2
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___squares___Look3___Item1
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/DOUBLE___8_pale_light_blue___squares
+        weight: 1
+      - path: CENTER/9_red_small___Left
+        weight: 1
+      - path: CENTER/9_red_small___Left/9_red_small___dash
+        weight: 1
+      - path: CENTER/9_red_small___Left/9_red_small___x
+        weight: 1
+      - path: CENTER/9_red_small___Left/9_red_small___x_1
+        weight: 1
+      - path: CENTER/9_red_small___Left/9_red_small___x_2
+        weight: 1
+      - path: CENTER/9_red_small___Left/DOUBLE___9_red_small___circles
+        weight: 1
+      - path: CENTER/9_red_small___Left/DOUBLE___9_red_small___circles_2
+        weight: 1
+      - path: CENTER/9_red_small___Left/DOUBLE___9_red_small___dash_2
+        weight: 1
+      - path: CENTER/9_red_small___Left/DOUBLE___9_red_small___dot
+        weight: 1
+      - path: CENTER/9_red_small___Left/DOUBLE___9_red_small___dot_2
+        weight: 1
+      - path: CENTER/10_red_large_outlines___Left
+        weight: 1
+      - path: CENTER/10_red_large_outlines___Left/DOUBLE___10_red_large_outlines___Left
+        weight: 1
+      - path: CENTER/10_red_large_outlines___Left/DOUBLE___10_red_large_outlines___Left_2
+        weight: 1
+      - path: CINEMA_4D_Editor
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Look1 - 4
+      takeName: Main
+      firstFrame: 1201
+      lastFrame: 1500
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CENTER
+        weight: 1
+      - path: CENTER/5_black_square___Left
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square1
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square1___Look3___Item2
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square2
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square_3
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square_4
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square___Look4___Item2
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square___red_3
+        weight: 1
+      - path: CENTER/5_black_square___Left/DOUBLE___5_black_square___red
+        weight: 1
+      - path: CENTER/5_black_square___Left/DOUBLE___5_black_square___red_2
+        weight: 1
+      - path: CENTER/6_pale_blue___Left
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue_3
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue_4___Look4___item1
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue_5___Look3___item3
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue___array1
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue___array2
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue___array3
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/DOUBLE__6_pale_blue_2
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/DOUBLE___6_pale_blue_1_
+        weight: 1
+      - path: CENTER/7_pale_green___Left
+        weight: 1
+      - path: CENTER/7_pale_green___Left/7_pale_green
+        weight: 1
+      - path: CENTER/7_pale_green___Left/7_pale_green_2
+        weight: 1
+      - path: CENTER/7_pale_green___Left/7_pale_green___array_1
+        weight: 1
+      - path: CENTER/7_pale_green___Left/7_pale_green___array_1_2
+        weight: 1
+      - path: CENTER/7_pale_green___Left/DOUBLE___7_pale_green_2_2
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___blinds1
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___blinds1_2
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___blinds1_3
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___blinds1_4
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___blinds1_5
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___squares
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___squares_2
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___squares___Look3___Item1
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/DOUBLE___8_pale_light_blue___squares
+        weight: 1
+      - path: CENTER/9_red_small___Left
+        weight: 1
+      - path: CENTER/9_red_small___Left/9_red_small___dash
+        weight: 1
+      - path: CENTER/9_red_small___Left/9_red_small___x
+        weight: 1
+      - path: CENTER/9_red_small___Left/9_red_small___x_1
+        weight: 1
+      - path: CENTER/9_red_small___Left/9_red_small___x_2
+        weight: 1
+      - path: CENTER/9_red_small___Left/DOUBLE___9_red_small___circles
+        weight: 1
+      - path: CENTER/9_red_small___Left/DOUBLE___9_red_small___circles_2
+        weight: 1
+      - path: CENTER/9_red_small___Left/DOUBLE___9_red_small___dash_2
+        weight: 1
+      - path: CENTER/9_red_small___Left/DOUBLE___9_red_small___dot
+        weight: 1
+      - path: CENTER/9_red_small___Left/DOUBLE___9_red_small___dot_2
+        weight: 1
+      - path: CENTER/10_red_large_outlines___Left
+        weight: 1
+      - path: CENTER/10_red_large_outlines___Left/DOUBLE___10_red_large_outlines___Left
+        weight: 1
+      - path: CENTER/10_red_large_outlines___Left/DOUBLE___10_red_large_outlines___Left_2
+        weight: 1
+      - path: CINEMA_4D_Editor
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Look2 - 1
+      takeName: Main
+      firstFrame: 1501
+      lastFrame: 1800
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CENTER
+        weight: 1
+      - path: CENTER/5_black_square___Left
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square1
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square1___Look3___Item2
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square2
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square_3
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square_4
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square___Look4___Item2
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square___red_3
+        weight: 1
+      - path: CENTER/5_black_square___Left/DOUBLE___5_black_square___red
+        weight: 1
+      - path: CENTER/5_black_square___Left/DOUBLE___5_black_square___red_2
+        weight: 1
+      - path: CENTER/6_pale_blue___Left
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue_3
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue_4___Look4___item1
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue_5___Look3___item3
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue___array1
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue___array2
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue___array3
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/DOUBLE__6_pale_blue_2
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/DOUBLE___6_pale_blue_1_
+        weight: 1
+      - path: CENTER/7_pale_green___Left
+        weight: 1
+      - path: CENTER/7_pale_green___Left/7_pale_green
+        weight: 1
+      - path: CENTER/7_pale_green___Left/7_pale_green_2
+        weight: 1
+      - path: CENTER/7_pale_green___Left/7_pale_green___array_1
+        weight: 1
+      - path: CENTER/7_pale_green___Left/7_pale_green___array_1_2
+        weight: 1
+      - path: CENTER/7_pale_green___Left/DOUBLE___7_pale_green_2_2
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___blinds1
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___blinds1_2
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___blinds1_3
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___blinds1_4
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___blinds1_5
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___squares
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___squares_2
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___squares___Look3___Item1
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/DOUBLE___8_pale_light_blue___squares
+        weight: 1
+      - path: CENTER/9_red_small___Left
+        weight: 1
+      - path: CENTER/9_red_small___Left/9_red_small___dash
+        weight: 1
+      - path: CENTER/9_red_small___Left/9_red_small___x
+        weight: 1
+      - path: CENTER/9_red_small___Left/9_red_small___x_1
+        weight: 1
+      - path: CENTER/9_red_small___Left/9_red_small___x_2
+        weight: 1
+      - path: CENTER/9_red_small___Left/DOUBLE___9_red_small___circles
+        weight: 1
+      - path: CENTER/9_red_small___Left/DOUBLE___9_red_small___circles_2
+        weight: 1
+      - path: CENTER/9_red_small___Left/DOUBLE___9_red_small___dash_2
+        weight: 1
+      - path: CENTER/9_red_small___Left/DOUBLE___9_red_small___dot
+        weight: 1
+      - path: CENTER/9_red_small___Left/DOUBLE___9_red_small___dot_2
+        weight: 1
+      - path: CENTER/10_red_large_outlines___Left
+        weight: 1
+      - path: CENTER/10_red_large_outlines___Left/DOUBLE___10_red_large_outlines___Left
+        weight: 1
+      - path: CENTER/10_red_large_outlines___Left/DOUBLE___10_red_large_outlines___Left_2
+        weight: 1
+      - path: CINEMA_4D_Editor
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Look2 - 2
+      takeName: Main
+      firstFrame: 1801
+      lastFrame: 2100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CENTER
+        weight: 1
+      - path: CENTER/5_black_square___Left
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square1
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square1___Look3___Item2
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square2
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square_3
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square_4
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square___Look4___Item2
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square___red_3
+        weight: 1
+      - path: CENTER/5_black_square___Left/DOUBLE___5_black_square___red
+        weight: 1
+      - path: CENTER/5_black_square___Left/DOUBLE___5_black_square___red_2
+        weight: 1
+      - path: CENTER/6_pale_blue___Left
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue_3
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue_4___Look4___item1
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue_5___Look3___item3
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue___array1
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue___array2
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue___array3
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/DOUBLE__6_pale_blue_2
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/DOUBLE___6_pale_blue_1_
+        weight: 1
+      - path: CENTER/7_pale_green___Left
+        weight: 1
+      - path: CENTER/7_pale_green___Left/7_pale_green
+        weight: 1
+      - path: CENTER/7_pale_green___Left/7_pale_green_2
+        weight: 1
+      - path: CENTER/7_pale_green___Left/7_pale_green___array_1
+        weight: 1
+      - path: CENTER/7_pale_green___Left/7_pale_green___array_1_2
+        weight: 1
+      - path: CENTER/7_pale_green___Left/DOUBLE___7_pale_green_2_2
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___blinds1
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___blinds1_2
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___blinds1_3
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___blinds1_4
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___blinds1_5
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___squares
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___squares_2
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___squares___Look3___Item1
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/DOUBLE___8_pale_light_blue___squares
+        weight: 1
+      - path: CENTER/9_red_small___Left
+        weight: 1
+      - path: CENTER/9_red_small___Left/9_red_small___dash
+        weight: 1
+      - path: CENTER/9_red_small___Left/9_red_small___x
+        weight: 1
+      - path: CENTER/9_red_small___Left/9_red_small___x_1
+        weight: 1
+      - path: CENTER/9_red_small___Left/9_red_small___x_2
+        weight: 1
+      - path: CENTER/9_red_small___Left/DOUBLE___9_red_small___circles
+        weight: 1
+      - path: CENTER/9_red_small___Left/DOUBLE___9_red_small___circles_2
+        weight: 1
+      - path: CENTER/9_red_small___Left/DOUBLE___9_red_small___dash_2
+        weight: 1
+      - path: CENTER/9_red_small___Left/DOUBLE___9_red_small___dot
+        weight: 1
+      - path: CENTER/9_red_small___Left/DOUBLE___9_red_small___dot_2
+        weight: 1
+      - path: CENTER/10_red_large_outlines___Left
+        weight: 1
+      - path: CENTER/10_red_large_outlines___Left/DOUBLE___10_red_large_outlines___Left
+        weight: 1
+      - path: CENTER/10_red_large_outlines___Left/DOUBLE___10_red_large_outlines___Left_2
+        weight: 1
+      - path: CINEMA_4D_Editor
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Look2 - 3
+      takeName: Main
+      firstFrame: 2101
+      lastFrame: 2400
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CENTER
+        weight: 1
+      - path: CENTER/5_black_square___Left
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square1
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square1___Look3___Item2
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square2
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square_3
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square_4
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square___Look4___Item2
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square___red_3
+        weight: 1
+      - path: CENTER/5_black_square___Left/DOUBLE___5_black_square___red
+        weight: 1
+      - path: CENTER/5_black_square___Left/DOUBLE___5_black_square___red_2
+        weight: 1
+      - path: CENTER/6_pale_blue___Left
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue_3
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue_4___Look4___item1
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue_5___Look3___item3
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue___array1
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue___array2
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue___array3
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/DOUBLE__6_pale_blue_2
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/DOUBLE___6_pale_blue_1_
+        weight: 1
+      - path: CENTER/7_pale_green___Left
+        weight: 1
+      - path: CENTER/7_pale_green___Left/7_pale_green
+        weight: 1
+      - path: CENTER/7_pale_green___Left/7_pale_green_2
+        weight: 1
+      - path: CENTER/7_pale_green___Left/7_pale_green___array_1
+        weight: 1
+      - path: CENTER/7_pale_green___Left/7_pale_green___array_1_2
+        weight: 1
+      - path: CENTER/7_pale_green___Left/DOUBLE___7_pale_green_2_2
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___blinds1
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___blinds1_2
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___blinds1_3
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___blinds1_4
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___blinds1_5
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___squares
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___squares_2
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___squares___Look3___Item1
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/DOUBLE___8_pale_light_blue___squares
+        weight: 1
+      - path: CENTER/9_red_small___Left
+        weight: 1
+      - path: CENTER/9_red_small___Left/9_red_small___dash
+        weight: 1
+      - path: CENTER/9_red_small___Left/9_red_small___x
+        weight: 1
+      - path: CENTER/9_red_small___Left/9_red_small___x_1
+        weight: 1
+      - path: CENTER/9_red_small___Left/9_red_small___x_2
+        weight: 1
+      - path: CENTER/9_red_small___Left/DOUBLE___9_red_small___circles
+        weight: 1
+      - path: CENTER/9_red_small___Left/DOUBLE___9_red_small___circles_2
+        weight: 1
+      - path: CENTER/9_red_small___Left/DOUBLE___9_red_small___dash_2
+        weight: 1
+      - path: CENTER/9_red_small___Left/DOUBLE___9_red_small___dot
+        weight: 1
+      - path: CENTER/9_red_small___Left/DOUBLE___9_red_small___dot_2
+        weight: 1
+      - path: CENTER/10_red_large_outlines___Left
+        weight: 1
+      - path: CENTER/10_red_large_outlines___Left/DOUBLE___10_red_large_outlines___Left
+        weight: 1
+      - path: CENTER/10_red_large_outlines___Left/DOUBLE___10_red_large_outlines___Left_2
+        weight: 1
+      - path: CINEMA_4D_Editor
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Look2 - 4
+      takeName: Main
+      firstFrame: 2401
+      lastFrame: 2700
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CENTER
+        weight: 1
+      - path: CENTER/5_black_square___Left
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square1
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square1___Look3___Item2
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square2
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square_3
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square_4
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square___Look4___Item2
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square___red_3
+        weight: 1
+      - path: CENTER/5_black_square___Left/DOUBLE___5_black_square___red
+        weight: 1
+      - path: CENTER/5_black_square___Left/DOUBLE___5_black_square___red_2
+        weight: 1
+      - path: CENTER/6_pale_blue___Left
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue_3
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue_4___Look4___item1
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue_5___Look3___item3
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue___array1
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue___array2
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue___array3
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/DOUBLE__6_pale_blue_2
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/DOUBLE___6_pale_blue_1_
+        weight: 1
+      - path: CENTER/7_pale_green___Left
+        weight: 1
+      - path: CENTER/7_pale_green___Left/7_pale_green
+        weight: 1
+      - path: CENTER/7_pale_green___Left/7_pale_green_2
+        weight: 1
+      - path: CENTER/7_pale_green___Left/7_pale_green___array_1
+        weight: 1
+      - path: CENTER/7_pale_green___Left/7_pale_green___array_1_2
+        weight: 1
+      - path: CENTER/7_pale_green___Left/DOUBLE___7_pale_green_2_2
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___blinds1
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___blinds1_2
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___blinds1_3
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___blinds1_4
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___blinds1_5
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___squares
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___squares_2
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___squares___Look3___Item1
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/DOUBLE___8_pale_light_blue___squares
+        weight: 1
+      - path: CENTER/9_red_small___Left
+        weight: 1
+      - path: CENTER/9_red_small___Left/9_red_small___dash
+        weight: 1
+      - path: CENTER/9_red_small___Left/9_red_small___x
+        weight: 1
+      - path: CENTER/9_red_small___Left/9_red_small___x_1
+        weight: 1
+      - path: CENTER/9_red_small___Left/9_red_small___x_2
+        weight: 1
+      - path: CENTER/9_red_small___Left/DOUBLE___9_red_small___circles
+        weight: 1
+      - path: CENTER/9_red_small___Left/DOUBLE___9_red_small___circles_2
+        weight: 1
+      - path: CENTER/9_red_small___Left/DOUBLE___9_red_small___dash_2
+        weight: 1
+      - path: CENTER/9_red_small___Left/DOUBLE___9_red_small___dot
+        weight: 1
+      - path: CENTER/9_red_small___Left/DOUBLE___9_red_small___dot_2
+        weight: 1
+      - path: CENTER/10_red_large_outlines___Left
+        weight: 1
+      - path: CENTER/10_red_large_outlines___Left/DOUBLE___10_red_large_outlines___Left
+        weight: 1
+      - path: CENTER/10_red_large_outlines___Left/DOUBLE___10_red_large_outlines___Left_2
+        weight: 1
+      - path: CINEMA_4D_Editor
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Look3 - 1
+      takeName: Main
+      firstFrame: 2701
+      lastFrame: 3000
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CENTER
+        weight: 1
+      - path: CENTER/5_black_square___Left
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square1
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square1___Look3___Item2
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square2
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square_3
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square_4
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square___Look4___Item2
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square___red_3
+        weight: 1
+      - path: CENTER/5_black_square___Left/DOUBLE___5_black_square___red
+        weight: 1
+      - path: CENTER/5_black_square___Left/DOUBLE___5_black_square___red_2
+        weight: 1
+      - path: CENTER/6_pale_blue___Left
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue_3
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue_4___Look4___item1
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue_5___Look3___item3
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue___array1
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue___array2
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue___array3
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/DOUBLE__6_pale_blue_2
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/DOUBLE___6_pale_blue_1_
+        weight: 1
+      - path: CENTER/7_pale_green___Left
+        weight: 1
+      - path: CENTER/7_pale_green___Left/7_pale_green
+        weight: 1
+      - path: CENTER/7_pale_green___Left/7_pale_green_2
+        weight: 1
+      - path: CENTER/7_pale_green___Left/7_pale_green___array_1
+        weight: 1
+      - path: CENTER/7_pale_green___Left/7_pale_green___array_1_2
+        weight: 1
+      - path: CENTER/7_pale_green___Left/DOUBLE___7_pale_green_2_2
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___blinds1
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___blinds1_2
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___blinds1_3
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___blinds1_4
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___blinds1_5
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___squares
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___squares_2
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___squares___Look3___Item1
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/DOUBLE___8_pale_light_blue___squares
+        weight: 1
+      - path: CENTER/9_red_small___Left
+        weight: 1
+      - path: CENTER/9_red_small___Left/9_red_small___dash
+        weight: 1
+      - path: CENTER/9_red_small___Left/9_red_small___x
+        weight: 1
+      - path: CENTER/9_red_small___Left/9_red_small___x_1
+        weight: 1
+      - path: CENTER/9_red_small___Left/9_red_small___x_2
+        weight: 1
+      - path: CENTER/9_red_small___Left/DOUBLE___9_red_small___circles
+        weight: 1
+      - path: CENTER/9_red_small___Left/DOUBLE___9_red_small___circles_2
+        weight: 1
+      - path: CENTER/9_red_small___Left/DOUBLE___9_red_small___dash_2
+        weight: 1
+      - path: CENTER/9_red_small___Left/DOUBLE___9_red_small___dot
+        weight: 1
+      - path: CENTER/9_red_small___Left/DOUBLE___9_red_small___dot_2
+        weight: 1
+      - path: CENTER/10_red_large_outlines___Left
+        weight: 1
+      - path: CENTER/10_red_large_outlines___Left/DOUBLE___10_red_large_outlines___Left
+        weight: 1
+      - path: CENTER/10_red_large_outlines___Left/DOUBLE___10_red_large_outlines___Left_2
+        weight: 1
+      - path: CINEMA_4D_Editor
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Look3 - 2
+      takeName: Main
+      firstFrame: 3001
+      lastFrame: 3300
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CENTER
+        weight: 1
+      - path: CENTER/5_black_square___Left
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square1
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square1___Look3___Item2
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square2
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square_3
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square_4
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square___Look4___Item2
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square___red_3
+        weight: 1
+      - path: CENTER/5_black_square___Left/DOUBLE___5_black_square___red
+        weight: 1
+      - path: CENTER/5_black_square___Left/DOUBLE___5_black_square___red_2
+        weight: 1
+      - path: CENTER/6_pale_blue___Left
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue_3
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue_4___Look4___item1
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue_5___Look3___item3
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue___array1
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue___array2
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue___array3
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/DOUBLE__6_pale_blue_2
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/DOUBLE___6_pale_blue_1_
+        weight: 1
+      - path: CENTER/7_pale_green___Left
+        weight: 1
+      - path: CENTER/7_pale_green___Left/7_pale_green
+        weight: 1
+      - path: CENTER/7_pale_green___Left/7_pale_green_2
+        weight: 1
+      - path: CENTER/7_pale_green___Left/7_pale_green___array_1
+        weight: 1
+      - path: CENTER/7_pale_green___Left/7_pale_green___array_1_2
+        weight: 1
+      - path: CENTER/7_pale_green___Left/DOUBLE___7_pale_green_2_2
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___blinds1
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___blinds1_2
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___blinds1_3
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___blinds1_4
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___blinds1_5
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___squares
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___squares_2
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___squares___Look3___Item1
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/DOUBLE___8_pale_light_blue___squares
+        weight: 1
+      - path: CENTER/9_red_small___Left
+        weight: 1
+      - path: CENTER/9_red_small___Left/9_red_small___dash
+        weight: 1
+      - path: CENTER/9_red_small___Left/9_red_small___x
+        weight: 1
+      - path: CENTER/9_red_small___Left/9_red_small___x_1
+        weight: 1
+      - path: CENTER/9_red_small___Left/9_red_small___x_2
+        weight: 1
+      - path: CENTER/9_red_small___Left/DOUBLE___9_red_small___circles
+        weight: 1
+      - path: CENTER/9_red_small___Left/DOUBLE___9_red_small___circles_2
+        weight: 1
+      - path: CENTER/9_red_small___Left/DOUBLE___9_red_small___dash_2
+        weight: 1
+      - path: CENTER/9_red_small___Left/DOUBLE___9_red_small___dot
+        weight: 1
+      - path: CENTER/9_red_small___Left/DOUBLE___9_red_small___dot_2
+        weight: 1
+      - path: CENTER/10_red_large_outlines___Left
+        weight: 1
+      - path: CENTER/10_red_large_outlines___Left/DOUBLE___10_red_large_outlines___Left
+        weight: 1
+      - path: CENTER/10_red_large_outlines___Left/DOUBLE___10_red_large_outlines___Left_2
+        weight: 1
+      - path: CINEMA_4D_Editor
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Look3 - 3
+      takeName: Main
+      firstFrame: 3301
+      lastFrame: 3600
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CENTER
+        weight: 1
+      - path: CENTER/5_black_square___Left
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square1
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square1___Look3___Item2
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square2
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square_3
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square_4
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square___Look4___Item2
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square___red_3
+        weight: 1
+      - path: CENTER/5_black_square___Left/DOUBLE___5_black_square___red
+        weight: 1
+      - path: CENTER/5_black_square___Left/DOUBLE___5_black_square___red_2
+        weight: 1
+      - path: CENTER/6_pale_blue___Left
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue_3
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue_4___Look4___item1
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue_5___Look3___item3
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue___array1
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue___array2
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue___array3
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/DOUBLE__6_pale_blue_2
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/DOUBLE___6_pale_blue_1_
+        weight: 1
+      - path: CENTER/7_pale_green___Left
+        weight: 1
+      - path: CENTER/7_pale_green___Left/7_pale_green
+        weight: 1
+      - path: CENTER/7_pale_green___Left/7_pale_green_2
+        weight: 1
+      - path: CENTER/7_pale_green___Left/7_pale_green___array_1
+        weight: 1
+      - path: CENTER/7_pale_green___Left/7_pale_green___array_1_2
+        weight: 1
+      - path: CENTER/7_pale_green___Left/DOUBLE___7_pale_green_2_2
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___blinds1
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___blinds1_2
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___blinds1_3
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___blinds1_4
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___blinds1_5
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___squares
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___squares_2
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___squares___Look3___Item1
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/DOUBLE___8_pale_light_blue___squares
+        weight: 1
+      - path: CENTER/9_red_small___Left
+        weight: 1
+      - path: CENTER/9_red_small___Left/9_red_small___dash
+        weight: 1
+      - path: CENTER/9_red_small___Left/9_red_small___x
+        weight: 1
+      - path: CENTER/9_red_small___Left/9_red_small___x_1
+        weight: 1
+      - path: CENTER/9_red_small___Left/9_red_small___x_2
+        weight: 1
+      - path: CENTER/9_red_small___Left/DOUBLE___9_red_small___circles
+        weight: 1
+      - path: CENTER/9_red_small___Left/DOUBLE___9_red_small___circles_2
+        weight: 1
+      - path: CENTER/9_red_small___Left/DOUBLE___9_red_small___dash_2
+        weight: 1
+      - path: CENTER/9_red_small___Left/DOUBLE___9_red_small___dot
+        weight: 1
+      - path: CENTER/9_red_small___Left/DOUBLE___9_red_small___dot_2
+        weight: 1
+      - path: CENTER/10_red_large_outlines___Left
+        weight: 1
+      - path: CENTER/10_red_large_outlines___Left/DOUBLE___10_red_large_outlines___Left
+        weight: 1
+      - path: CENTER/10_red_large_outlines___Left/DOUBLE___10_red_large_outlines___Left_2
+        weight: 1
+      - path: CINEMA_4D_Editor
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Look3 - 4
+      takeName: Main
+      firstFrame: 3601
+      lastFrame: 3900
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CENTER
+        weight: 1
+      - path: CENTER/5_black_square___Left
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square1
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square1___Look3___Item2
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square2
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square_3
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square_4
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square___Look4___Item2
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square___red_3
+        weight: 1
+      - path: CENTER/5_black_square___Left/DOUBLE___5_black_square___red
+        weight: 1
+      - path: CENTER/5_black_square___Left/DOUBLE___5_black_square___red_2
+        weight: 1
+      - path: CENTER/6_pale_blue___Left
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue_3
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue_4___Look4___item1
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue_5___Look3___item3
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue___array1
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue___array2
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue___array3
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/DOUBLE__6_pale_blue_2
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/DOUBLE___6_pale_blue_1_
+        weight: 1
+      - path: CENTER/7_pale_green___Left
+        weight: 1
+      - path: CENTER/7_pale_green___Left/7_pale_green
+        weight: 1
+      - path: CENTER/7_pale_green___Left/7_pale_green_2
+        weight: 1
+      - path: CENTER/7_pale_green___Left/7_pale_green___array_1
+        weight: 1
+      - path: CENTER/7_pale_green___Left/7_pale_green___array_1_2
+        weight: 1
+      - path: CENTER/7_pale_green___Left/DOUBLE___7_pale_green_2_2
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___blinds1
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___blinds1_2
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___blinds1_3
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___blinds1_4
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___blinds1_5
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___squares
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___squares_2
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___squares___Look3___Item1
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/DOUBLE___8_pale_light_blue___squares
+        weight: 1
+      - path: CENTER/9_red_small___Left
+        weight: 1
+      - path: CENTER/9_red_small___Left/9_red_small___dash
+        weight: 1
+      - path: CENTER/9_red_small___Left/9_red_small___x
+        weight: 1
+      - path: CENTER/9_red_small___Left/9_red_small___x_1
+        weight: 1
+      - path: CENTER/9_red_small___Left/9_red_small___x_2
+        weight: 1
+      - path: CENTER/9_red_small___Left/DOUBLE___9_red_small___circles
+        weight: 1
+      - path: CENTER/9_red_small___Left/DOUBLE___9_red_small___circles_2
+        weight: 1
+      - path: CENTER/9_red_small___Left/DOUBLE___9_red_small___dash_2
+        weight: 1
+      - path: CENTER/9_red_small___Left/DOUBLE___9_red_small___dot
+        weight: 1
+      - path: CENTER/9_red_small___Left/DOUBLE___9_red_small___dot_2
+        weight: 1
+      - path: CENTER/10_red_large_outlines___Left
+        weight: 1
+      - path: CENTER/10_red_large_outlines___Left/DOUBLE___10_red_large_outlines___Left
+        weight: 1
+      - path: CENTER/10_red_large_outlines___Left/DOUBLE___10_red_large_outlines___Left_2
+        weight: 1
+      - path: CINEMA_4D_Editor
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Look4 - 1
+      takeName: Main
+      firstFrame: 3901.0002
+      lastFrame: 4200
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CENTER
+        weight: 1
+      - path: CENTER/5_black_square___Left
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square1
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square1___Look3___Item2
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square2
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square_3
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square_4
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square___Look4___Item2
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square___red_3
+        weight: 1
+      - path: CENTER/5_black_square___Left/DOUBLE___5_black_square___red
+        weight: 1
+      - path: CENTER/5_black_square___Left/DOUBLE___5_black_square___red_2
+        weight: 1
+      - path: CENTER/6_pale_blue___Left
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue_3
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue_4___Look4___item1
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue_5___Look3___item3
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue___array1
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue___array2
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue___array3
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/DOUBLE__6_pale_blue_2
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/DOUBLE___6_pale_blue_1_
+        weight: 1
+      - path: CENTER/7_pale_green___Left
+        weight: 1
+      - path: CENTER/7_pale_green___Left/7_pale_green
+        weight: 1
+      - path: CENTER/7_pale_green___Left/7_pale_green_2
+        weight: 1
+      - path: CENTER/7_pale_green___Left/7_pale_green___array_1
+        weight: 1
+      - path: CENTER/7_pale_green___Left/7_pale_green___array_1_2
+        weight: 1
+      - path: CENTER/7_pale_green___Left/DOUBLE___7_pale_green_2_2
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___blinds1
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___blinds1_2
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___blinds1_3
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___blinds1_4
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___blinds1_5
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___squares
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___squares_2
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___squares___Look3___Item1
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/DOUBLE___8_pale_light_blue___squares
+        weight: 1
+      - path: CENTER/9_red_small___Left
+        weight: 1
+      - path: CENTER/9_red_small___Left/9_red_small___dash
+        weight: 1
+      - path: CENTER/9_red_small___Left/9_red_small___x
+        weight: 1
+      - path: CENTER/9_red_small___Left/9_red_small___x_1
+        weight: 1
+      - path: CENTER/9_red_small___Left/9_red_small___x_2
+        weight: 1
+      - path: CENTER/9_red_small___Left/DOUBLE___9_red_small___circles
+        weight: 1
+      - path: CENTER/9_red_small___Left/DOUBLE___9_red_small___circles_2
+        weight: 1
+      - path: CENTER/9_red_small___Left/DOUBLE___9_red_small___dash_2
+        weight: 1
+      - path: CENTER/9_red_small___Left/DOUBLE___9_red_small___dot
+        weight: 1
+      - path: CENTER/9_red_small___Left/DOUBLE___9_red_small___dot_2
+        weight: 1
+      - path: CENTER/10_red_large_outlines___Left
+        weight: 1
+      - path: CENTER/10_red_large_outlines___Left/DOUBLE___10_red_large_outlines___Left
+        weight: 1
+      - path: CENTER/10_red_large_outlines___Left/DOUBLE___10_red_large_outlines___Left_2
+        weight: 1
+      - path: CINEMA_4D_Editor
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Look4 - 2
+      takeName: Main
+      firstFrame: 4201
+      lastFrame: 4500
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CENTER
+        weight: 1
+      - path: CENTER/5_black_square___Left
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square1
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square1___Look3___Item2
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square2
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square_3
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square_4
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square___Look4___Item2
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square___red_3
+        weight: 1
+      - path: CENTER/5_black_square___Left/DOUBLE___5_black_square___red
+        weight: 1
+      - path: CENTER/5_black_square___Left/DOUBLE___5_black_square___red_2
+        weight: 1
+      - path: CENTER/6_pale_blue___Left
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue_3
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue_4___Look4___item1
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue_5___Look3___item3
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue___array1
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue___array2
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue___array3
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/DOUBLE__6_pale_blue_2
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/DOUBLE___6_pale_blue_1_
+        weight: 1
+      - path: CENTER/7_pale_green___Left
+        weight: 1
+      - path: CENTER/7_pale_green___Left/7_pale_green
+        weight: 1
+      - path: CENTER/7_pale_green___Left/7_pale_green_2
+        weight: 1
+      - path: CENTER/7_pale_green___Left/7_pale_green___array_1
+        weight: 1
+      - path: CENTER/7_pale_green___Left/7_pale_green___array_1_2
+        weight: 1
+      - path: CENTER/7_pale_green___Left/DOUBLE___7_pale_green_2_2
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___blinds1
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___blinds1_2
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___blinds1_3
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___blinds1_4
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___blinds1_5
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___squares
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___squares_2
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___squares___Look3___Item1
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/DOUBLE___8_pale_light_blue___squares
+        weight: 1
+      - path: CENTER/9_red_small___Left
+        weight: 1
+      - path: CENTER/9_red_small___Left/9_red_small___dash
+        weight: 1
+      - path: CENTER/9_red_small___Left/9_red_small___x
+        weight: 1
+      - path: CENTER/9_red_small___Left/9_red_small___x_1
+        weight: 1
+      - path: CENTER/9_red_small___Left/9_red_small___x_2
+        weight: 1
+      - path: CENTER/9_red_small___Left/DOUBLE___9_red_small___circles
+        weight: 1
+      - path: CENTER/9_red_small___Left/DOUBLE___9_red_small___circles_2
+        weight: 1
+      - path: CENTER/9_red_small___Left/DOUBLE___9_red_small___dash_2
+        weight: 1
+      - path: CENTER/9_red_small___Left/DOUBLE___9_red_small___dot
+        weight: 1
+      - path: CENTER/9_red_small___Left/DOUBLE___9_red_small___dot_2
+        weight: 1
+      - path: CENTER/10_red_large_outlines___Left
+        weight: 1
+      - path: CENTER/10_red_large_outlines___Left/DOUBLE___10_red_large_outlines___Left
+        weight: 1
+      - path: CENTER/10_red_large_outlines___Left/DOUBLE___10_red_large_outlines___Left_2
+        weight: 1
+      - path: CINEMA_4D_Editor
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Look4 - 3
+      takeName: Main
+      firstFrame: 4501
+      lastFrame: 4578
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CENTER
+        weight: 1
+      - path: CENTER/5_black_square___Left
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square1
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square1___Look3___Item2
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square2
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square_3
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square_4
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square___Look4___Item2
+        weight: 1
+      - path: CENTER/5_black_square___Left/5_black_square___red_3
+        weight: 1
+      - path: CENTER/5_black_square___Left/DOUBLE___5_black_square___red
+        weight: 1
+      - path: CENTER/5_black_square___Left/DOUBLE___5_black_square___red_2
+        weight: 1
+      - path: CENTER/6_pale_blue___Left
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue_3
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue_4___Look4___item1
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue_5___Look3___item3
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue___array1
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue___array2
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/6_pale_blue___array3
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/DOUBLE__6_pale_blue_2
+        weight: 1
+      - path: CENTER/6_pale_blue___Left/DOUBLE___6_pale_blue_1_
+        weight: 1
+      - path: CENTER/7_pale_green___Left
+        weight: 1
+      - path: CENTER/7_pale_green___Left/7_pale_green
+        weight: 1
+      - path: CENTER/7_pale_green___Left/7_pale_green_2
+        weight: 1
+      - path: CENTER/7_pale_green___Left/7_pale_green___array_1
+        weight: 1
+      - path: CENTER/7_pale_green___Left/7_pale_green___array_1_2
+        weight: 1
+      - path: CENTER/7_pale_green___Left/DOUBLE___7_pale_green_2_2
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___blinds1
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___blinds1_2
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___blinds1_3
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___blinds1_4
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___blinds1_5
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___squares
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___squares_2
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/8_pale_light_blue___squares___Look3___Item1
+        weight: 1
+      - path: CENTER/8_pale_light_blue___Left/DOUBLE___8_pale_light_blue___squares
+        weight: 1
+      - path: CENTER/9_red_small___Left
+        weight: 1
+      - path: CENTER/9_red_small___Left/9_red_small___dash
+        weight: 1
+      - path: CENTER/9_red_small___Left/9_red_small___x
+        weight: 1
+      - path: CENTER/9_red_small___Left/9_red_small___x_1
+        weight: 1
+      - path: CENTER/9_red_small___Left/9_red_small___x_2
+        weight: 1
+      - path: CENTER/9_red_small___Left/DOUBLE___9_red_small___circles
+        weight: 1
+      - path: CENTER/9_red_small___Left/DOUBLE___9_red_small___circles_2
+        weight: 1
+      - path: CENTER/9_red_small___Left/DOUBLE___9_red_small___dash_2
+        weight: 1
+      - path: CENTER/9_red_small___Left/DOUBLE___9_red_small___dot
+        weight: 1
+      - path: CENTER/9_red_small___Left/DOUBLE___9_red_small___dot_2
+        weight: 1
+      - path: CENTER/10_red_large_outlines___Left
+        weight: 1
+      - path: CENTER/10_red_large_outlines___Left/DOUBLE___10_red_large_outlines___Left
+        weight: 1
+      - path: CENTER/10_red_large_outlines___Left/DOUBLE___10_red_large_outlines___Left_2
+        weight: 1
+      - path: CINEMA_4D_Editor
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

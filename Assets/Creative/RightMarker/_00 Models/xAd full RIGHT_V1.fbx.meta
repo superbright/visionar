@@ -1,0 +1,3782 @@
+fileFormatVersion: 2
+guid: 8e00a9eddc97cc94aa3d7fb7d833bc36
+timeCreated: 1474044523
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 10_red_large_outlines___Right
+    100002: 10_red_large_outlines___Right_2
+    100004: 10_red_large_outlines___Right_2_2
+    100006: 11_bright_blue___Right
+    100008: 11_bright_blue___Right_2
+    100010: 11_bright_blue___Right_2_2
+    100012: 11_bright_blue___Right_3
+    100014: 12_large_dark_blue_squares___Right
+    100016: 12_large_dark_blue_squares___Right_2
+    100018: 12_large_dark_blue_squares___Right_2_2
+    100020: 12_large_dark_blue_squares___Right_3
+    100022: 12_large_dark_blue_squares___Right_4
+    100024: 12_large_dark_blue_squares___Right_5
+    100026: 1_grid___Right
+    100028: 1_grid___Right_2
+    100030: 1_grid___Right_2_2
+    100032: 2_grid_lines_blue___Right
+    100034: 2_grid_lines_blue___Right_2
+    100036: 2_grid_lines_blue___Right_2_2
+    100038: 2_grid_lines_pink___Right
+    100040: 2_grid_lines_pink___Right_2
+    100042: 2_grid_lines_pink___Right_2_2
+    100044: 2_grid_lines_red___Right
+    100046: 2_grid_lines_red___Right_2
+    100048: 2_grid_lines_red___Right_2_2
+    100050: 2_grid_lines_turqouise___Right
+    100052: 2_grid_lines_turqouise___Right_2
+    100054: 2_grid_lines_turqouise___Right_2_2
+    100056: 3_details_bright_green___block1
+    100058: 3_details_bright_green___block_2
+    100060: 3_details_bright_green___Right_1
+    100062: 3_details_bright_green___Right_2
+    100064: 3_detials_bright_green___Right
+    100066: 4_details_bright_seafoam___Right
+    100068: 4_details_bright_seafoam___Right_2
+    100070: 4_details_bright_seafoam___Right_2_2
+    100072: 5_black_square
+    100074: 5_black_square___red
+    100076: 5_black_squares___Right
+    100078: 6_pale_blue_
+    100080: 6_pale_blue__2
+    100082: 6_pale_blue___array1
+    100084: 6_pale_blue___array2
+    100086: 6_pale_blue___array3
+    100088: 6_pale_blue___Right
+    100090: 7_pale_green___array_1
+    100092: 7_pale_green___array_2
+    100094: 7_pale_green___Right
+    100096: 7_pale_green___Right_2
+    100098: 7_pale_green___Right_2_2
+    100100: 8_pale_light_blue___blinds1
+    100102: 8_pale_light_blue___blinds2
+    100104: 8_pale_light_blue___blinds3
+    100106: 8_pale_light_blue___blinds4
+    100108: 8_pale_light_blue___blinds5
+    100110: 8_pale_light_blue___Right
+    100112: 8_pale_light_blue___squares
+    100114: BL___LEFT
+    100116: Border_RIGHT
+    100118: Bottom
+    100120: BR___LEFT
+    100122: CINEMA_4D_Editor
+    100124: Intro_Anim_Right
+    100126: Left
+    100128: Object_Occlussion___RIGHT
+    100130: RIGHT
+    100132: Right
+    100134: Right_Marker___Geo
+    100136: Right_Marker___Suppliment
+    100138: RIGHT_Marker_Interior
+    100140: TL___LEFT
+    100142: Top
+    100144: TR___LEFT
+    100146: //RootNode
+    100148: xAd___RIGHT
+    400000: 10_red_large_outlines___Right
+    400002: 10_red_large_outlines___Right_2
+    400004: 10_red_large_outlines___Right_2_2
+    400006: 11_bright_blue___Right
+    400008: 11_bright_blue___Right_2
+    400010: 11_bright_blue___Right_2_2
+    400012: 11_bright_blue___Right_3
+    400014: 12_large_dark_blue_squares___Right
+    400016: 12_large_dark_blue_squares___Right_2
+    400018: 12_large_dark_blue_squares___Right_2_2
+    400020: 12_large_dark_blue_squares___Right_3
+    400022: 12_large_dark_blue_squares___Right_4
+    400024: 12_large_dark_blue_squares___Right_5
+    400026: 1_grid___Right
+    400028: 1_grid___Right_2
+    400030: 1_grid___Right_2_2
+    400032: 2_grid_lines_blue___Right
+    400034: 2_grid_lines_blue___Right_2
+    400036: 2_grid_lines_blue___Right_2_2
+    400038: 2_grid_lines_pink___Right
+    400040: 2_grid_lines_pink___Right_2
+    400042: 2_grid_lines_pink___Right_2_2
+    400044: 2_grid_lines_red___Right
+    400046: 2_grid_lines_red___Right_2
+    400048: 2_grid_lines_red___Right_2_2
+    400050: 2_grid_lines_turqouise___Right
+    400052: 2_grid_lines_turqouise___Right_2
+    400054: 2_grid_lines_turqouise___Right_2_2
+    400056: 3_details_bright_green___block1
+    400058: 3_details_bright_green___block_2
+    400060: 3_details_bright_green___Right_1
+    400062: 3_details_bright_green___Right_2
+    400064: 3_detials_bright_green___Right
+    400066: 4_details_bright_seafoam___Right
+    400068: 4_details_bright_seafoam___Right_2
+    400070: 4_details_bright_seafoam___Right_2_2
+    400072: 5_black_square
+    400074: 5_black_square___red
+    400076: 5_black_squares___Right
+    400078: 6_pale_blue_
+    400080: 6_pale_blue__2
+    400082: 6_pale_blue___array1
+    400084: 6_pale_blue___array2
+    400086: 6_pale_blue___array3
+    400088: 6_pale_blue___Right
+    400090: 7_pale_green___array_1
+    400092: 7_pale_green___array_2
+    400094: 7_pale_green___Right
+    400096: 7_pale_green___Right_2
+    400098: 7_pale_green___Right_2_2
+    400100: 8_pale_light_blue___blinds1
+    400102: 8_pale_light_blue___blinds2
+    400104: 8_pale_light_blue___blinds3
+    400106: 8_pale_light_blue___blinds4
+    400108: 8_pale_light_blue___blinds5
+    400110: 8_pale_light_blue___Right
+    400112: 8_pale_light_blue___squares
+    400114: BL___LEFT
+    400116: Border_RIGHT
+    400118: Bottom
+    400120: BR___LEFT
+    400122: CINEMA_4D_Editor
+    400124: Intro_Anim_Right
+    400126: Left
+    400128: Object_Occlussion___RIGHT
+    400130: RIGHT
+    400132: Right
+    400134: Right_Marker___Geo
+    400136: Right_Marker___Suppliment
+    400138: RIGHT_Marker_Interior
+    400140: TL___LEFT
+    400142: Top
+    400144: TR___LEFT
+    400146: //RootNode
+    400148: xAd___RIGHT
+    2300000: 10_red_large_outlines___Right_2
+    2300002: 10_red_large_outlines___Right_2_2
+    2300004: 11_bright_blue___Right_2
+    2300006: 11_bright_blue___Right_2_2
+    2300008: 11_bright_blue___Right_3
+    2300010: 12_large_dark_blue_squares___Right_2
+    2300012: 12_large_dark_blue_squares___Right_2_2
+    2300014: 12_large_dark_blue_squares___Right_3
+    2300016: 12_large_dark_blue_squares___Right_4
+    2300018: 12_large_dark_blue_squares___Right_5
+    2300020: 1_grid___Right_2
+    2300022: 1_grid___Right_2_2
+    2300024: 2_grid_lines_blue___Right_2
+    2300026: 2_grid_lines_blue___Right_2_2
+    2300028: 2_grid_lines_pink___Right_2
+    2300030: 2_grid_lines_pink___Right_2_2
+    2300032: 2_grid_lines_red___Right_2
+    2300034: 2_grid_lines_red___Right_2_2
+    2300036: 2_grid_lines_turqouise___Right_2
+    2300038: 2_grid_lines_turqouise___Right_2_2
+    2300040: 3_details_bright_green___block1
+    2300042: 3_details_bright_green___block_2
+    2300044: 3_details_bright_green___Right_1
+    2300046: 3_details_bright_green___Right_2
+    2300048: 4_details_bright_seafoam___Right_2
+    2300050: 4_details_bright_seafoam___Right_2_2
+    2300052: 5_black_square
+    2300054: 5_black_square___red
+    2300056: 6_pale_blue_
+    2300058: 6_pale_blue__2
+    2300060: 6_pale_blue___array1
+    2300062: 6_pale_blue___array2
+    2300064: 6_pale_blue___array3
+    2300066: 7_pale_green___array_1
+    2300068: 7_pale_green___array_2
+    2300070: 7_pale_green___Right_2
+    2300072: 7_pale_green___Right_2_2
+    2300074: 8_pale_light_blue___blinds1
+    2300076: 8_pale_light_blue___blinds2
+    2300078: 8_pale_light_blue___blinds3
+    2300080: 8_pale_light_blue___blinds4
+    2300082: 8_pale_light_blue___blinds5
+    2300084: 8_pale_light_blue___squares
+    2300086: BL___LEFT
+    2300088: Bottom
+    2300090: BR___LEFT
+    2300092: Left
+    2300094: Object_Occlussion___RIGHT
+    2300096: Right
+    2300098: RIGHT_Marker_Interior
+    2300100: TL___LEFT
+    2300102: Top
+    2300104: TR___LEFT
+    3300000: 10_red_large_outlines___Right_2
+    3300002: 10_red_large_outlines___Right_2_2
+    3300004: 11_bright_blue___Right_2
+    3300006: 11_bright_blue___Right_2_2
+    3300008: 11_bright_blue___Right_3
+    3300010: 12_large_dark_blue_squares___Right_2
+    3300012: 12_large_dark_blue_squares___Right_2_2
+    3300014: 12_large_dark_blue_squares___Right_3
+    3300016: 12_large_dark_blue_squares___Right_4
+    3300018: 12_large_dark_blue_squares___Right_5
+    3300020: 1_grid___Right_2
+    3300022: 1_grid___Right_2_2
+    3300024: 2_grid_lines_blue___Right_2
+    3300026: 2_grid_lines_blue___Right_2_2
+    3300028: 2_grid_lines_pink___Right_2
+    3300030: 2_grid_lines_pink___Right_2_2
+    3300032: 2_grid_lines_red___Right_2
+    3300034: 2_grid_lines_red___Right_2_2
+    3300036: 2_grid_lines_turqouise___Right_2
+    3300038: 2_grid_lines_turqouise___Right_2_2
+    3300040: 3_details_bright_green___block1
+    3300042: 3_details_bright_green___block_2
+    3300044: 3_details_bright_green___Right_1
+    3300046: 3_details_bright_green___Right_2
+    3300048: 4_details_bright_seafoam___Right_2
+    3300050: 4_details_bright_seafoam___Right_2_2
+    3300052: 5_black_square
+    3300054: 5_black_square___red
+    3300056: 6_pale_blue_
+    3300058: 6_pale_blue__2
+    3300060: 6_pale_blue___array1
+    3300062: 6_pale_blue___array2
+    3300064: 6_pale_blue___array3
+    3300066: 7_pale_green___array_1
+    3300068: 7_pale_green___array_2
+    3300070: 7_pale_green___Right_2
+    3300072: 7_pale_green___Right_2_2
+    3300074: 8_pale_light_blue___blinds1
+    3300076: 8_pale_light_blue___blinds2
+    3300078: 8_pale_light_blue___blinds3
+    3300080: 8_pale_light_blue___blinds4
+    3300082: 8_pale_light_blue___blinds5
+    3300084: 8_pale_light_blue___squares
+    3300086: BL___LEFT
+    3300088: Bottom
+    3300090: BR___LEFT
+    3300092: Left
+    3300094: Object_Occlussion___RIGHT
+    3300096: Right
+    3300098: RIGHT_Marker_Interior
+    3300100: TL___LEFT
+    3300102: Top
+    3300104: TR___LEFT
+    4300000: RIGHT_Marker_Interior
+    4300002: Right
+    4300004: Top
+    4300006: Left
+    4300008: Bottom
+    4300010: TR___LEFT
+    4300012: TL___LEFT
+    4300014: BR___LEFT
+    4300016: BL___LEFT
+    4300018: Object_Occlussion___RIGHT
+    4300020: 1_grid___Right_2
+    4300022: 1_grid___Right_2_2
+    4300024: 2_grid_lines_turqouise___Right_2
+    4300026: 2_grid_lines_turqouise___Right_2_2
+    4300028: 2_grid_lines_red___Right_2
+    4300030: 2_grid_lines_red___Right_2_2
+    4300032: 2_grid_lines_pink___Right_2
+    4300034: 2_grid_lines_pink___Right_2_2
+    4300036: 2_grid_lines_blue___Right_2
+    4300038: 2_grid_lines_blue___Right_2_2
+    4300040: 3_details_bright_green___block1
+    4300042: 3_details_bright_green___block_2
+    4300044: 3_details_bright_green___Right_1
+    4300046: 3_details_bright_green___Right_2
+    4300048: 4_details_bright_seafoam___Right_2
+    4300050: 4_details_bright_seafoam___Right_2_2
+    4300052: 5_black_square___red
+    4300054: 5_black_square
+    4300056: 6_pale_blue___array1
+    4300058: 6_pale_blue___array2
+    4300060: 6_pale_blue___array3
+    4300062: 6_pale_blue_
+    4300064: 6_pale_blue__2
+    4300066: 7_pale_green___array_1
+    4300068: 7_pale_green___array_2
+    4300070: 7_pale_green___Right_2
+    4300072: 7_pale_green___Right_2_2
+    4300074: 8_pale_light_blue___blinds1
+    4300076: 8_pale_light_blue___blinds2
+    4300078: 8_pale_light_blue___blinds3
+    4300080: 8_pale_light_blue___blinds4
+    4300082: 8_pale_light_blue___blinds5
+    4300084: 8_pale_light_blue___squares
+    4300086: 10_red_large_outlines___Right_2
+    4300088: 10_red_large_outlines___Right_2_2
+    4300090: 11_bright_blue___Right_2
+    4300092: 11_bright_blue___Right_2_2
+    4300094: 11_bright_blue___Right_3
+    4300096: 12_large_dark_blue_squares___Right_2
+    4300098: 12_large_dark_blue_squares___Right_3
+    4300100: 12_large_dark_blue_squares___Right_2_2
+    4300102: 12_large_dark_blue_squares___Right_4
+    4300104: 12_large_dark_blue_squares___Right_5
+    7400000: IDLE
+    7400002: INTRO
+    7400004: Look1 - 1
+    7400006: Look1 - 2
+    7400008: Look1 - 3
+    7400010: Look1 - 4
+    7400012: 'Look2 - 1 '
+    7400014: Look2 - 2
+    7400016: Look2 - 3
+    7400018: Look2 - 4
+    7400020: Look3 - 1
+    7400022: Look3 - 2
+    7400024: Look3 - 3
+    7400026: Look3 - 4
+    7400028: Look4 - 1
+    7400030: Look4 - 2
+    7400032: Look4 - 3
+    7400034: Look4 - 4
+    7400036: OUTRO
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: IDLE
+      takeName: Main
+      firstFrame: 0
+      lastFrame: 0
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CINEMA_4D_Editor
+        weight: 1
+      - path: Intro_Anim_Right
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/BL___LEFT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT/Bottom
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT/Left
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT/Right
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT/Top
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/BR___LEFT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/RIGHT_Marker_Interior
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/TL___LEFT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/TR___LEFT
+        weight: 1
+      - path: xAd___RIGHT
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/1_grid___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/1_grid___Right/1_grid___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/1_grid___Right/1_grid___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_blue___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_blue___Right/2_grid_lines_blue___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_blue___Right/2_grid_lines_blue___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_pink___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_pink___Right/2_grid_lines_pink___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_pink___Right/2_grid_lines_pink___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_red___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_red___Right/2_grid_lines_red___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_red___Right/2_grid_lines_red___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_turqouise___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_turqouise___Right/2_grid_lines_turqouise___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_turqouise___Right/2_grid_lines_turqouise___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right/3_details_bright_green___block1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right/3_details_bright_green___block_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right/3_details_bright_green___Right_1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right/3_details_bright_green___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/4_details_bright_seafoam___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/4_details_bright_seafoam___Right/4_details_bright_seafoam___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/4_details_bright_seafoam___Right/4_details_bright_seafoam___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/5_black_squares___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/5_black_squares___Right/5_black_square
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/5_black_squares___Right/5_black_square___red
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue_
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue__2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue___array1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue___array2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue___array3
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right/7_pale_green___array_1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right/7_pale_green___array_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right/7_pale_green___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right/7_pale_green___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds3
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds4
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds5
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___squares
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/10_red_large_outlines___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/10_red_large_outlines___Right/10_red_large_outlines___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/10_red_large_outlines___Right/10_red_large_outlines___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/11_bright_blue___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/11_bright_blue___Right/11_bright_blue___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/11_bright_blue___Right/11_bright_blue___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/11_bright_blue___Right/11_bright_blue___Right_3
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_3
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_4
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_5
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Suppliment
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Suppliment/Object_Occlussion___RIGHT
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: INTRO
+      takeName: Main
+      firstFrame: 0
+      lastFrame: 300
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CINEMA_4D_Editor
+        weight: 1
+      - path: Intro_Anim_Right
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/BL___LEFT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT/Bottom
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT/Left
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT/Right
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT/Top
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/BR___LEFT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/RIGHT_Marker_Interior
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/TL___LEFT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/TR___LEFT
+        weight: 1
+      - path: xAd___RIGHT
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/1_grid___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/1_grid___Right/1_grid___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/1_grid___Right/1_grid___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_blue___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_blue___Right/2_grid_lines_blue___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_blue___Right/2_grid_lines_blue___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_pink___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_pink___Right/2_grid_lines_pink___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_pink___Right/2_grid_lines_pink___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_red___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_red___Right/2_grid_lines_red___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_red___Right/2_grid_lines_red___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_turqouise___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_turqouise___Right/2_grid_lines_turqouise___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_turqouise___Right/2_grid_lines_turqouise___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right/3_details_bright_green___block1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right/3_details_bright_green___block_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right/3_details_bright_green___Right_1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right/3_details_bright_green___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/4_details_bright_seafoam___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/4_details_bright_seafoam___Right/4_details_bright_seafoam___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/4_details_bright_seafoam___Right/4_details_bright_seafoam___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/5_black_squares___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/5_black_squares___Right/5_black_square
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/5_black_squares___Right/5_black_square___red
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue_
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue__2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue___array1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue___array2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue___array3
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right/7_pale_green___array_1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right/7_pale_green___array_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right/7_pale_green___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right/7_pale_green___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds3
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds4
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds5
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___squares
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/10_red_large_outlines___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/10_red_large_outlines___Right/10_red_large_outlines___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/10_red_large_outlines___Right/10_red_large_outlines___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/11_bright_blue___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/11_bright_blue___Right/11_bright_blue___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/11_bright_blue___Right/11_bright_blue___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/11_bright_blue___Right/11_bright_blue___Right_3
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_3
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_4
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_5
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Suppliment
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Suppliment/Object_Occlussion___RIGHT
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Look1 - 1
+      takeName: Main
+      firstFrame: 301
+      lastFrame: 600
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CINEMA_4D_Editor
+        weight: 1
+      - path: Intro_Anim_Right
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/BL___LEFT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT/Bottom
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT/Left
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT/Right
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT/Top
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/BR___LEFT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/RIGHT_Marker_Interior
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/TL___LEFT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/TR___LEFT
+        weight: 1
+      - path: xAd___RIGHT
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/1_grid___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/1_grid___Right/1_grid___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/1_grid___Right/1_grid___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_blue___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_blue___Right/2_grid_lines_blue___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_blue___Right/2_grid_lines_blue___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_pink___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_pink___Right/2_grid_lines_pink___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_pink___Right/2_grid_lines_pink___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_red___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_red___Right/2_grid_lines_red___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_red___Right/2_grid_lines_red___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_turqouise___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_turqouise___Right/2_grid_lines_turqouise___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_turqouise___Right/2_grid_lines_turqouise___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right/3_details_bright_green___block1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right/3_details_bright_green___block_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right/3_details_bright_green___Right_1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right/3_details_bright_green___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/4_details_bright_seafoam___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/4_details_bright_seafoam___Right/4_details_bright_seafoam___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/4_details_bright_seafoam___Right/4_details_bright_seafoam___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/5_black_squares___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/5_black_squares___Right/5_black_square
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/5_black_squares___Right/5_black_square___red
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue_
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue__2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue___array1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue___array2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue___array3
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right/7_pale_green___array_1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right/7_pale_green___array_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right/7_pale_green___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right/7_pale_green___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds3
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds4
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds5
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___squares
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/10_red_large_outlines___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/10_red_large_outlines___Right/10_red_large_outlines___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/10_red_large_outlines___Right/10_red_large_outlines___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/11_bright_blue___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/11_bright_blue___Right/11_bright_blue___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/11_bright_blue___Right/11_bright_blue___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/11_bright_blue___Right/11_bright_blue___Right_3
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_3
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_4
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_5
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Suppliment
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Suppliment/Object_Occlussion___RIGHT
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Look1 - 2
+      takeName: Main
+      firstFrame: 601
+      lastFrame: 900
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CINEMA_4D_Editor
+        weight: 1
+      - path: Intro_Anim_Right
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/BL___LEFT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT/Bottom
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT/Left
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT/Right
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT/Top
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/BR___LEFT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/RIGHT_Marker_Interior
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/TL___LEFT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/TR___LEFT
+        weight: 1
+      - path: xAd___RIGHT
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/1_grid___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/1_grid___Right/1_grid___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/1_grid___Right/1_grid___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_blue___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_blue___Right/2_grid_lines_blue___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_blue___Right/2_grid_lines_blue___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_pink___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_pink___Right/2_grid_lines_pink___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_pink___Right/2_grid_lines_pink___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_red___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_red___Right/2_grid_lines_red___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_red___Right/2_grid_lines_red___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_turqouise___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_turqouise___Right/2_grid_lines_turqouise___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_turqouise___Right/2_grid_lines_turqouise___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right/3_details_bright_green___block1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right/3_details_bright_green___block_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right/3_details_bright_green___Right_1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right/3_details_bright_green___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/4_details_bright_seafoam___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/4_details_bright_seafoam___Right/4_details_bright_seafoam___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/4_details_bright_seafoam___Right/4_details_bright_seafoam___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/5_black_squares___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/5_black_squares___Right/5_black_square
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/5_black_squares___Right/5_black_square___red
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue_
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue__2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue___array1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue___array2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue___array3
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right/7_pale_green___array_1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right/7_pale_green___array_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right/7_pale_green___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right/7_pale_green___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds3
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds4
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds5
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___squares
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/10_red_large_outlines___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/10_red_large_outlines___Right/10_red_large_outlines___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/10_red_large_outlines___Right/10_red_large_outlines___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/11_bright_blue___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/11_bright_blue___Right/11_bright_blue___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/11_bright_blue___Right/11_bright_blue___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/11_bright_blue___Right/11_bright_blue___Right_3
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_3
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_4
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_5
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Suppliment
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Suppliment/Object_Occlussion___RIGHT
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Look1 - 3
+      takeName: Main
+      firstFrame: 901
+      lastFrame: 1200
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CINEMA_4D_Editor
+        weight: 1
+      - path: Intro_Anim_Right
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/BL___LEFT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT/Bottom
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT/Left
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT/Right
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT/Top
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/BR___LEFT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/RIGHT_Marker_Interior
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/TL___LEFT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/TR___LEFT
+        weight: 1
+      - path: xAd___RIGHT
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/1_grid___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/1_grid___Right/1_grid___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/1_grid___Right/1_grid___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_blue___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_blue___Right/2_grid_lines_blue___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_blue___Right/2_grid_lines_blue___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_pink___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_pink___Right/2_grid_lines_pink___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_pink___Right/2_grid_lines_pink___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_red___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_red___Right/2_grid_lines_red___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_red___Right/2_grid_lines_red___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_turqouise___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_turqouise___Right/2_grid_lines_turqouise___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_turqouise___Right/2_grid_lines_turqouise___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right/3_details_bright_green___block1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right/3_details_bright_green___block_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right/3_details_bright_green___Right_1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right/3_details_bright_green___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/4_details_bright_seafoam___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/4_details_bright_seafoam___Right/4_details_bright_seafoam___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/4_details_bright_seafoam___Right/4_details_bright_seafoam___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/5_black_squares___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/5_black_squares___Right/5_black_square
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/5_black_squares___Right/5_black_square___red
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue_
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue__2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue___array1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue___array2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue___array3
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right/7_pale_green___array_1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right/7_pale_green___array_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right/7_pale_green___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right/7_pale_green___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds3
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds4
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds5
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___squares
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/10_red_large_outlines___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/10_red_large_outlines___Right/10_red_large_outlines___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/10_red_large_outlines___Right/10_red_large_outlines___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/11_bright_blue___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/11_bright_blue___Right/11_bright_blue___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/11_bright_blue___Right/11_bright_blue___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/11_bright_blue___Right/11_bright_blue___Right_3
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_3
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_4
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_5
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Suppliment
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Suppliment/Object_Occlussion___RIGHT
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Look1 - 4
+      takeName: Main
+      firstFrame: 1201
+      lastFrame: 1500
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CINEMA_4D_Editor
+        weight: 1
+      - path: Intro_Anim_Right
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/BL___LEFT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT/Bottom
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT/Left
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT/Right
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT/Top
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/BR___LEFT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/RIGHT_Marker_Interior
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/TL___LEFT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/TR___LEFT
+        weight: 1
+      - path: xAd___RIGHT
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/1_grid___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/1_grid___Right/1_grid___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/1_grid___Right/1_grid___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_blue___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_blue___Right/2_grid_lines_blue___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_blue___Right/2_grid_lines_blue___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_pink___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_pink___Right/2_grid_lines_pink___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_pink___Right/2_grid_lines_pink___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_red___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_red___Right/2_grid_lines_red___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_red___Right/2_grid_lines_red___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_turqouise___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_turqouise___Right/2_grid_lines_turqouise___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_turqouise___Right/2_grid_lines_turqouise___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right/3_details_bright_green___block1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right/3_details_bright_green___block_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right/3_details_bright_green___Right_1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right/3_details_bright_green___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/4_details_bright_seafoam___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/4_details_bright_seafoam___Right/4_details_bright_seafoam___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/4_details_bright_seafoam___Right/4_details_bright_seafoam___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/5_black_squares___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/5_black_squares___Right/5_black_square
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/5_black_squares___Right/5_black_square___red
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue_
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue__2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue___array1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue___array2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue___array3
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right/7_pale_green___array_1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right/7_pale_green___array_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right/7_pale_green___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right/7_pale_green___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds3
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds4
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds5
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___squares
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/10_red_large_outlines___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/10_red_large_outlines___Right/10_red_large_outlines___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/10_red_large_outlines___Right/10_red_large_outlines___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/11_bright_blue___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/11_bright_blue___Right/11_bright_blue___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/11_bright_blue___Right/11_bright_blue___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/11_bright_blue___Right/11_bright_blue___Right_3
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_3
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_4
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_5
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Suppliment
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Suppliment/Object_Occlussion___RIGHT
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 'Look2 - 1 '
+      takeName: Main
+      firstFrame: 1501
+      lastFrame: 1800
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CINEMA_4D_Editor
+        weight: 1
+      - path: Intro_Anim_Right
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/BL___LEFT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT/Bottom
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT/Left
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT/Right
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT/Top
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/BR___LEFT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/RIGHT_Marker_Interior
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/TL___LEFT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/TR___LEFT
+        weight: 1
+      - path: xAd___RIGHT
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/1_grid___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/1_grid___Right/1_grid___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/1_grid___Right/1_grid___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_blue___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_blue___Right/2_grid_lines_blue___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_blue___Right/2_grid_lines_blue___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_pink___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_pink___Right/2_grid_lines_pink___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_pink___Right/2_grid_lines_pink___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_red___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_red___Right/2_grid_lines_red___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_red___Right/2_grid_lines_red___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_turqouise___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_turqouise___Right/2_grid_lines_turqouise___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_turqouise___Right/2_grid_lines_turqouise___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right/3_details_bright_green___block1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right/3_details_bright_green___block_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right/3_details_bright_green___Right_1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right/3_details_bright_green___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/4_details_bright_seafoam___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/4_details_bright_seafoam___Right/4_details_bright_seafoam___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/4_details_bright_seafoam___Right/4_details_bright_seafoam___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/5_black_squares___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/5_black_squares___Right/5_black_square
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/5_black_squares___Right/5_black_square___red
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue_
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue__2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue___array1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue___array2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue___array3
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right/7_pale_green___array_1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right/7_pale_green___array_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right/7_pale_green___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right/7_pale_green___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds3
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds4
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds5
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___squares
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/10_red_large_outlines___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/10_red_large_outlines___Right/10_red_large_outlines___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/10_red_large_outlines___Right/10_red_large_outlines___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/11_bright_blue___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/11_bright_blue___Right/11_bright_blue___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/11_bright_blue___Right/11_bright_blue___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/11_bright_blue___Right/11_bright_blue___Right_3
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_3
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_4
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_5
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Suppliment
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Suppliment/Object_Occlussion___RIGHT
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Look2 - 2
+      takeName: Main
+      firstFrame: 1801
+      lastFrame: 2100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CINEMA_4D_Editor
+        weight: 1
+      - path: Intro_Anim_Right
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/BL___LEFT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT/Bottom
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT/Left
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT/Right
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT/Top
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/BR___LEFT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/RIGHT_Marker_Interior
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/TL___LEFT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/TR___LEFT
+        weight: 1
+      - path: xAd___RIGHT
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/1_grid___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/1_grid___Right/1_grid___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/1_grid___Right/1_grid___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_blue___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_blue___Right/2_grid_lines_blue___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_blue___Right/2_grid_lines_blue___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_pink___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_pink___Right/2_grid_lines_pink___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_pink___Right/2_grid_lines_pink___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_red___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_red___Right/2_grid_lines_red___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_red___Right/2_grid_lines_red___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_turqouise___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_turqouise___Right/2_grid_lines_turqouise___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_turqouise___Right/2_grid_lines_turqouise___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right/3_details_bright_green___block1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right/3_details_bright_green___block_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right/3_details_bright_green___Right_1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right/3_details_bright_green___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/4_details_bright_seafoam___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/4_details_bright_seafoam___Right/4_details_bright_seafoam___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/4_details_bright_seafoam___Right/4_details_bright_seafoam___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/5_black_squares___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/5_black_squares___Right/5_black_square
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/5_black_squares___Right/5_black_square___red
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue_
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue__2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue___array1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue___array2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue___array3
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right/7_pale_green___array_1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right/7_pale_green___array_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right/7_pale_green___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right/7_pale_green___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds3
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds4
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds5
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___squares
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/10_red_large_outlines___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/10_red_large_outlines___Right/10_red_large_outlines___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/10_red_large_outlines___Right/10_red_large_outlines___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/11_bright_blue___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/11_bright_blue___Right/11_bright_blue___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/11_bright_blue___Right/11_bright_blue___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/11_bright_blue___Right/11_bright_blue___Right_3
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_3
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_4
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_5
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Suppliment
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Suppliment/Object_Occlussion___RIGHT
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Look2 - 3
+      takeName: Main
+      firstFrame: 2101
+      lastFrame: 2400
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CINEMA_4D_Editor
+        weight: 1
+      - path: Intro_Anim_Right
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/BL___LEFT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT/Bottom
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT/Left
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT/Right
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT/Top
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/BR___LEFT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/RIGHT_Marker_Interior
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/TL___LEFT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/TR___LEFT
+        weight: 1
+      - path: xAd___RIGHT
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/1_grid___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/1_grid___Right/1_grid___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/1_grid___Right/1_grid___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_blue___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_blue___Right/2_grid_lines_blue___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_blue___Right/2_grid_lines_blue___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_pink___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_pink___Right/2_grid_lines_pink___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_pink___Right/2_grid_lines_pink___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_red___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_red___Right/2_grid_lines_red___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_red___Right/2_grid_lines_red___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_turqouise___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_turqouise___Right/2_grid_lines_turqouise___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_turqouise___Right/2_grid_lines_turqouise___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right/3_details_bright_green___block1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right/3_details_bright_green___block_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right/3_details_bright_green___Right_1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right/3_details_bright_green___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/4_details_bright_seafoam___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/4_details_bright_seafoam___Right/4_details_bright_seafoam___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/4_details_bright_seafoam___Right/4_details_bright_seafoam___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/5_black_squares___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/5_black_squares___Right/5_black_square
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/5_black_squares___Right/5_black_square___red
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue_
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue__2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue___array1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue___array2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue___array3
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right/7_pale_green___array_1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right/7_pale_green___array_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right/7_pale_green___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right/7_pale_green___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds3
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds4
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds5
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___squares
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/10_red_large_outlines___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/10_red_large_outlines___Right/10_red_large_outlines___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/10_red_large_outlines___Right/10_red_large_outlines___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/11_bright_blue___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/11_bright_blue___Right/11_bright_blue___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/11_bright_blue___Right/11_bright_blue___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/11_bright_blue___Right/11_bright_blue___Right_3
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_3
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_4
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_5
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Suppliment
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Suppliment/Object_Occlussion___RIGHT
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Look2 - 4
+      takeName: Main
+      firstFrame: 2401
+      lastFrame: 2700
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CINEMA_4D_Editor
+        weight: 1
+      - path: Intro_Anim_Right
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/BL___LEFT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT/Bottom
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT/Left
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT/Right
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT/Top
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/BR___LEFT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/RIGHT_Marker_Interior
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/TL___LEFT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/TR___LEFT
+        weight: 1
+      - path: xAd___RIGHT
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/1_grid___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/1_grid___Right/1_grid___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/1_grid___Right/1_grid___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_blue___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_blue___Right/2_grid_lines_blue___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_blue___Right/2_grid_lines_blue___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_pink___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_pink___Right/2_grid_lines_pink___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_pink___Right/2_grid_lines_pink___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_red___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_red___Right/2_grid_lines_red___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_red___Right/2_grid_lines_red___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_turqouise___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_turqouise___Right/2_grid_lines_turqouise___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_turqouise___Right/2_grid_lines_turqouise___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right/3_details_bright_green___block1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right/3_details_bright_green___block_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right/3_details_bright_green___Right_1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right/3_details_bright_green___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/4_details_bright_seafoam___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/4_details_bright_seafoam___Right/4_details_bright_seafoam___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/4_details_bright_seafoam___Right/4_details_bright_seafoam___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/5_black_squares___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/5_black_squares___Right/5_black_square
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/5_black_squares___Right/5_black_square___red
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue_
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue__2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue___array1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue___array2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue___array3
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right/7_pale_green___array_1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right/7_pale_green___array_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right/7_pale_green___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right/7_pale_green___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds3
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds4
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds5
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___squares
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/10_red_large_outlines___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/10_red_large_outlines___Right/10_red_large_outlines___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/10_red_large_outlines___Right/10_red_large_outlines___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/11_bright_blue___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/11_bright_blue___Right/11_bright_blue___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/11_bright_blue___Right/11_bright_blue___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/11_bright_blue___Right/11_bright_blue___Right_3
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_3
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_4
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_5
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Suppliment
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Suppliment/Object_Occlussion___RIGHT
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Look3 - 1
+      takeName: Main
+      firstFrame: 2701
+      lastFrame: 3000
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CINEMA_4D_Editor
+        weight: 1
+      - path: Intro_Anim_Right
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/BL___LEFT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT/Bottom
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT/Left
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT/Right
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT/Top
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/BR___LEFT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/RIGHT_Marker_Interior
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/TL___LEFT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/TR___LEFT
+        weight: 1
+      - path: xAd___RIGHT
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/1_grid___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/1_grid___Right/1_grid___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/1_grid___Right/1_grid___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_blue___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_blue___Right/2_grid_lines_blue___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_blue___Right/2_grid_lines_blue___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_pink___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_pink___Right/2_grid_lines_pink___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_pink___Right/2_grid_lines_pink___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_red___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_red___Right/2_grid_lines_red___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_red___Right/2_grid_lines_red___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_turqouise___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_turqouise___Right/2_grid_lines_turqouise___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_turqouise___Right/2_grid_lines_turqouise___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right/3_details_bright_green___block1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right/3_details_bright_green___block_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right/3_details_bright_green___Right_1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right/3_details_bright_green___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/4_details_bright_seafoam___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/4_details_bright_seafoam___Right/4_details_bright_seafoam___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/4_details_bright_seafoam___Right/4_details_bright_seafoam___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/5_black_squares___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/5_black_squares___Right/5_black_square
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/5_black_squares___Right/5_black_square___red
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue_
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue__2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue___array1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue___array2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue___array3
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right/7_pale_green___array_1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right/7_pale_green___array_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right/7_pale_green___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right/7_pale_green___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds3
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds4
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds5
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___squares
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/10_red_large_outlines___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/10_red_large_outlines___Right/10_red_large_outlines___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/10_red_large_outlines___Right/10_red_large_outlines___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/11_bright_blue___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/11_bright_blue___Right/11_bright_blue___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/11_bright_blue___Right/11_bright_blue___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/11_bright_blue___Right/11_bright_blue___Right_3
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_3
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_4
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_5
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Suppliment
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Suppliment/Object_Occlussion___RIGHT
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Look3 - 2
+      takeName: Main
+      firstFrame: 3001
+      lastFrame: 3300
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CINEMA_4D_Editor
+        weight: 1
+      - path: Intro_Anim_Right
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/BL___LEFT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT/Bottom
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT/Left
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT/Right
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT/Top
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/BR___LEFT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/RIGHT_Marker_Interior
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/TL___LEFT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/TR___LEFT
+        weight: 1
+      - path: xAd___RIGHT
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/1_grid___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/1_grid___Right/1_grid___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/1_grid___Right/1_grid___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_blue___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_blue___Right/2_grid_lines_blue___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_blue___Right/2_grid_lines_blue___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_pink___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_pink___Right/2_grid_lines_pink___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_pink___Right/2_grid_lines_pink___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_red___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_red___Right/2_grid_lines_red___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_red___Right/2_grid_lines_red___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_turqouise___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_turqouise___Right/2_grid_lines_turqouise___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_turqouise___Right/2_grid_lines_turqouise___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right/3_details_bright_green___block1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right/3_details_bright_green___block_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right/3_details_bright_green___Right_1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right/3_details_bright_green___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/4_details_bright_seafoam___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/4_details_bright_seafoam___Right/4_details_bright_seafoam___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/4_details_bright_seafoam___Right/4_details_bright_seafoam___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/5_black_squares___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/5_black_squares___Right/5_black_square
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/5_black_squares___Right/5_black_square___red
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue_
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue__2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue___array1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue___array2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue___array3
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right/7_pale_green___array_1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right/7_pale_green___array_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right/7_pale_green___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right/7_pale_green___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds3
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds4
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds5
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___squares
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/10_red_large_outlines___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/10_red_large_outlines___Right/10_red_large_outlines___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/10_red_large_outlines___Right/10_red_large_outlines___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/11_bright_blue___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/11_bright_blue___Right/11_bright_blue___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/11_bright_blue___Right/11_bright_blue___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/11_bright_blue___Right/11_bright_blue___Right_3
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_3
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_4
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_5
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Suppliment
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Suppliment/Object_Occlussion___RIGHT
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Look3 - 3
+      takeName: Main
+      firstFrame: 3301
+      lastFrame: 3600
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CINEMA_4D_Editor
+        weight: 1
+      - path: Intro_Anim_Right
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/BL___LEFT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT/Bottom
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT/Left
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT/Right
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT/Top
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/BR___LEFT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/RIGHT_Marker_Interior
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/TL___LEFT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/TR___LEFT
+        weight: 1
+      - path: xAd___RIGHT
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/1_grid___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/1_grid___Right/1_grid___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/1_grid___Right/1_grid___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_blue___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_blue___Right/2_grid_lines_blue___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_blue___Right/2_grid_lines_blue___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_pink___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_pink___Right/2_grid_lines_pink___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_pink___Right/2_grid_lines_pink___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_red___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_red___Right/2_grid_lines_red___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_red___Right/2_grid_lines_red___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_turqouise___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_turqouise___Right/2_grid_lines_turqouise___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_turqouise___Right/2_grid_lines_turqouise___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right/3_details_bright_green___block1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right/3_details_bright_green___block_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right/3_details_bright_green___Right_1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right/3_details_bright_green___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/4_details_bright_seafoam___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/4_details_bright_seafoam___Right/4_details_bright_seafoam___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/4_details_bright_seafoam___Right/4_details_bright_seafoam___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/5_black_squares___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/5_black_squares___Right/5_black_square
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/5_black_squares___Right/5_black_square___red
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue_
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue__2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue___array1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue___array2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue___array3
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right/7_pale_green___array_1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right/7_pale_green___array_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right/7_pale_green___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right/7_pale_green___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds3
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds4
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds5
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___squares
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/10_red_large_outlines___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/10_red_large_outlines___Right/10_red_large_outlines___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/10_red_large_outlines___Right/10_red_large_outlines___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/11_bright_blue___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/11_bright_blue___Right/11_bright_blue___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/11_bright_blue___Right/11_bright_blue___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/11_bright_blue___Right/11_bright_blue___Right_3
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_3
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_4
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_5
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Suppliment
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Suppliment/Object_Occlussion___RIGHT
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Look3 - 4
+      takeName: Main
+      firstFrame: 3601
+      lastFrame: 3900
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CINEMA_4D_Editor
+        weight: 1
+      - path: Intro_Anim_Right
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/BL___LEFT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT/Bottom
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT/Left
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT/Right
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT/Top
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/BR___LEFT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/RIGHT_Marker_Interior
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/TL___LEFT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/TR___LEFT
+        weight: 1
+      - path: xAd___RIGHT
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/1_grid___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/1_grid___Right/1_grid___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/1_grid___Right/1_grid___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_blue___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_blue___Right/2_grid_lines_blue___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_blue___Right/2_grid_lines_blue___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_pink___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_pink___Right/2_grid_lines_pink___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_pink___Right/2_grid_lines_pink___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_red___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_red___Right/2_grid_lines_red___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_red___Right/2_grid_lines_red___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_turqouise___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_turqouise___Right/2_grid_lines_turqouise___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_turqouise___Right/2_grid_lines_turqouise___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right/3_details_bright_green___block1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right/3_details_bright_green___block_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right/3_details_bright_green___Right_1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right/3_details_bright_green___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/4_details_bright_seafoam___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/4_details_bright_seafoam___Right/4_details_bright_seafoam___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/4_details_bright_seafoam___Right/4_details_bright_seafoam___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/5_black_squares___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/5_black_squares___Right/5_black_square
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/5_black_squares___Right/5_black_square___red
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue_
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue__2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue___array1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue___array2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue___array3
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right/7_pale_green___array_1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right/7_pale_green___array_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right/7_pale_green___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right/7_pale_green___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds3
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds4
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds5
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___squares
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/10_red_large_outlines___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/10_red_large_outlines___Right/10_red_large_outlines___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/10_red_large_outlines___Right/10_red_large_outlines___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/11_bright_blue___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/11_bright_blue___Right/11_bright_blue___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/11_bright_blue___Right/11_bright_blue___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/11_bright_blue___Right/11_bright_blue___Right_3
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_3
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_4
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_5
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Suppliment
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Suppliment/Object_Occlussion___RIGHT
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Look4 - 1
+      takeName: Main
+      firstFrame: 3901.0002
+      lastFrame: 4200
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CINEMA_4D_Editor
+        weight: 1
+      - path: Intro_Anim_Right
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/BL___LEFT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT/Bottom
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT/Left
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT/Right
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT/Top
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/BR___LEFT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/RIGHT_Marker_Interior
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/TL___LEFT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/TR___LEFT
+        weight: 1
+      - path: xAd___RIGHT
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/1_grid___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/1_grid___Right/1_grid___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/1_grid___Right/1_grid___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_blue___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_blue___Right/2_grid_lines_blue___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_blue___Right/2_grid_lines_blue___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_pink___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_pink___Right/2_grid_lines_pink___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_pink___Right/2_grid_lines_pink___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_red___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_red___Right/2_grid_lines_red___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_red___Right/2_grid_lines_red___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_turqouise___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_turqouise___Right/2_grid_lines_turqouise___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_turqouise___Right/2_grid_lines_turqouise___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right/3_details_bright_green___block1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right/3_details_bright_green___block_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right/3_details_bright_green___Right_1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right/3_details_bright_green___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/4_details_bright_seafoam___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/4_details_bright_seafoam___Right/4_details_bright_seafoam___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/4_details_bright_seafoam___Right/4_details_bright_seafoam___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/5_black_squares___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/5_black_squares___Right/5_black_square
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/5_black_squares___Right/5_black_square___red
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue_
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue__2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue___array1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue___array2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue___array3
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right/7_pale_green___array_1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right/7_pale_green___array_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right/7_pale_green___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right/7_pale_green___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds3
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds4
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds5
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___squares
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/10_red_large_outlines___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/10_red_large_outlines___Right/10_red_large_outlines___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/10_red_large_outlines___Right/10_red_large_outlines___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/11_bright_blue___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/11_bright_blue___Right/11_bright_blue___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/11_bright_blue___Right/11_bright_blue___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/11_bright_blue___Right/11_bright_blue___Right_3
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_3
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_4
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_5
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Suppliment
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Suppliment/Object_Occlussion___RIGHT
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Look4 - 2
+      takeName: Main
+      firstFrame: 4201
+      lastFrame: 4500
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CINEMA_4D_Editor
+        weight: 1
+      - path: Intro_Anim_Right
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/BL___LEFT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT/Bottom
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT/Left
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT/Right
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT/Top
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/BR___LEFT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/RIGHT_Marker_Interior
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/TL___LEFT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/TR___LEFT
+        weight: 1
+      - path: xAd___RIGHT
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/1_grid___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/1_grid___Right/1_grid___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/1_grid___Right/1_grid___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_blue___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_blue___Right/2_grid_lines_blue___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_blue___Right/2_grid_lines_blue___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_pink___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_pink___Right/2_grid_lines_pink___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_pink___Right/2_grid_lines_pink___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_red___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_red___Right/2_grid_lines_red___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_red___Right/2_grid_lines_red___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_turqouise___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_turqouise___Right/2_grid_lines_turqouise___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_turqouise___Right/2_grid_lines_turqouise___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right/3_details_bright_green___block1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right/3_details_bright_green___block_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right/3_details_bright_green___Right_1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right/3_details_bright_green___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/4_details_bright_seafoam___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/4_details_bright_seafoam___Right/4_details_bright_seafoam___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/4_details_bright_seafoam___Right/4_details_bright_seafoam___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/5_black_squares___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/5_black_squares___Right/5_black_square
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/5_black_squares___Right/5_black_square___red
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue_
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue__2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue___array1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue___array2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue___array3
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right/7_pale_green___array_1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right/7_pale_green___array_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right/7_pale_green___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right/7_pale_green___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds3
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds4
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds5
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___squares
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/10_red_large_outlines___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/10_red_large_outlines___Right/10_red_large_outlines___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/10_red_large_outlines___Right/10_red_large_outlines___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/11_bright_blue___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/11_bright_blue___Right/11_bright_blue___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/11_bright_blue___Right/11_bright_blue___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/11_bright_blue___Right/11_bright_blue___Right_3
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_3
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_4
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_5
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Suppliment
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Suppliment/Object_Occlussion___RIGHT
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Look4 - 3
+      takeName: Main
+      firstFrame: 4501
+      lastFrame: 4800
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CINEMA_4D_Editor
+        weight: 1
+      - path: Intro_Anim_Right
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/BL___LEFT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT/Bottom
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT/Left
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT/Right
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT/Top
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/BR___LEFT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/RIGHT_Marker_Interior
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/TL___LEFT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/TR___LEFT
+        weight: 1
+      - path: xAd___RIGHT
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/1_grid___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/1_grid___Right/1_grid___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/1_grid___Right/1_grid___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_blue___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_blue___Right/2_grid_lines_blue___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_blue___Right/2_grid_lines_blue___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_pink___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_pink___Right/2_grid_lines_pink___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_pink___Right/2_grid_lines_pink___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_red___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_red___Right/2_grid_lines_red___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_red___Right/2_grid_lines_red___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_turqouise___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_turqouise___Right/2_grid_lines_turqouise___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_turqouise___Right/2_grid_lines_turqouise___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right/3_details_bright_green___block1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right/3_details_bright_green___block_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right/3_details_bright_green___Right_1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right/3_details_bright_green___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/4_details_bright_seafoam___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/4_details_bright_seafoam___Right/4_details_bright_seafoam___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/4_details_bright_seafoam___Right/4_details_bright_seafoam___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/5_black_squares___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/5_black_squares___Right/5_black_square
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/5_black_squares___Right/5_black_square___red
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue_
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue__2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue___array1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue___array2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue___array3
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right/7_pale_green___array_1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right/7_pale_green___array_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right/7_pale_green___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right/7_pale_green___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds3
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds4
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds5
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___squares
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/10_red_large_outlines___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/10_red_large_outlines___Right/10_red_large_outlines___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/10_red_large_outlines___Right/10_red_large_outlines___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/11_bright_blue___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/11_bright_blue___Right/11_bright_blue___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/11_bright_blue___Right/11_bright_blue___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/11_bright_blue___Right/11_bright_blue___Right_3
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_3
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_4
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_5
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Suppliment
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Suppliment/Object_Occlussion___RIGHT
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Look4 - 4
+      takeName: Main
+      firstFrame: 4801
+      lastFrame: 5100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CINEMA_4D_Editor
+        weight: 1
+      - path: Intro_Anim_Right
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/BL___LEFT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT/Bottom
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT/Left
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT/Right
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT/Top
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/BR___LEFT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/RIGHT_Marker_Interior
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/TL___LEFT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/TR___LEFT
+        weight: 1
+      - path: xAd___RIGHT
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/1_grid___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/1_grid___Right/1_grid___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/1_grid___Right/1_grid___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_blue___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_blue___Right/2_grid_lines_blue___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_blue___Right/2_grid_lines_blue___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_pink___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_pink___Right/2_grid_lines_pink___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_pink___Right/2_grid_lines_pink___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_red___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_red___Right/2_grid_lines_red___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_red___Right/2_grid_lines_red___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_turqouise___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_turqouise___Right/2_grid_lines_turqouise___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_turqouise___Right/2_grid_lines_turqouise___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right/3_details_bright_green___block1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right/3_details_bright_green___block_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right/3_details_bright_green___Right_1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right/3_details_bright_green___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/4_details_bright_seafoam___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/4_details_bright_seafoam___Right/4_details_bright_seafoam___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/4_details_bright_seafoam___Right/4_details_bright_seafoam___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/5_black_squares___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/5_black_squares___Right/5_black_square
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/5_black_squares___Right/5_black_square___red
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue_
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue__2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue___array1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue___array2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue___array3
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right/7_pale_green___array_1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right/7_pale_green___array_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right/7_pale_green___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right/7_pale_green___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds3
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds4
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds5
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___squares
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/10_red_large_outlines___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/10_red_large_outlines___Right/10_red_large_outlines___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/10_red_large_outlines___Right/10_red_large_outlines___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/11_bright_blue___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/11_bright_blue___Right/11_bright_blue___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/11_bright_blue___Right/11_bright_blue___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/11_bright_blue___Right/11_bright_blue___Right_3
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_3
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_4
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_5
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Suppliment
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Suppliment/Object_Occlussion___RIGHT
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: OUTRO
+      takeName: Main
+      firstFrame: 5101
+      lastFrame: 5400
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CINEMA_4D_Editor
+        weight: 1
+      - path: Intro_Anim_Right
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/BL___LEFT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT/Bottom
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT/Left
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT/Right
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/Border_RIGHT/Top
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/BR___LEFT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/RIGHT_Marker_Interior
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/TL___LEFT
+        weight: 1
+      - path: Intro_Anim_Right/RIGHT/TR___LEFT
+        weight: 1
+      - path: xAd___RIGHT
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/1_grid___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/1_grid___Right/1_grid___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/1_grid___Right/1_grid___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_blue___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_blue___Right/2_grid_lines_blue___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_blue___Right/2_grid_lines_blue___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_pink___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_pink___Right/2_grid_lines_pink___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_pink___Right/2_grid_lines_pink___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_red___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_red___Right/2_grid_lines_red___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_red___Right/2_grid_lines_red___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_turqouise___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_turqouise___Right/2_grid_lines_turqouise___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/2_grid_lines_turqouise___Right/2_grid_lines_turqouise___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right/3_details_bright_green___block1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right/3_details_bright_green___block_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right/3_details_bright_green___Right_1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/3_detials_bright_green___Right/3_details_bright_green___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/4_details_bright_seafoam___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/4_details_bright_seafoam___Right/4_details_bright_seafoam___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/4_details_bright_seafoam___Right/4_details_bright_seafoam___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/5_black_squares___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/5_black_squares___Right/5_black_square
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/5_black_squares___Right/5_black_square___red
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue_
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue__2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue___array1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue___array2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/6_pale_blue___Right/6_pale_blue___array3
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right/7_pale_green___array_1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right/7_pale_green___array_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right/7_pale_green___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/7_pale_green___Right/7_pale_green___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds1
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds3
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds4
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___blinds5
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/8_pale_light_blue___Right/8_pale_light_blue___squares
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/10_red_large_outlines___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/10_red_large_outlines___Right/10_red_large_outlines___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/10_red_large_outlines___Right/10_red_large_outlines___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/11_bright_blue___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/11_bright_blue___Right/11_bright_blue___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/11_bright_blue___Right/11_bright_blue___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/11_bright_blue___Right/11_bright_blue___Right_3
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_2_2
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_3
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_4
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Geo/12_large_dark_blue_squares___Right/12_large_dark_blue_squares___Right_5
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Suppliment
+        weight: 1
+      - path: xAd___RIGHT/Right_Marker___Suppliment/Object_Occlussion___RIGHT
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

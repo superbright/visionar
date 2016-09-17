@@ -37,6 +37,11 @@ public class TestSocketIO : MonoBehaviour
 	float position = 0;
 
 	public AnimationHandler animHandler;
+	//public TMPro. 
+	public TMPro.TMP_Text statusText;
+	//public UnityEngine.UI.Text statusText;
+
+	string status = "";
 
 	public void Start() 
 	{
@@ -49,7 +54,24 @@ public class TestSocketIO : MonoBehaviour
 		socket.On("error", TestError);
 		socket.On("close", TestClose);
 		
-		StartCoroutine("BeepBoop");
+		//StartCoroutine("BeepBoop");
+	}
+
+	void Update() {
+		if (statusText.text != status) {
+			statusText.text = status;
+		}
+	}
+
+	void OnDestroy() {
+		Debug.Log ("destroy");
+		socket.Close ();
+	}
+
+	private void updateText (string status) {
+		if(statusText != null) {
+			statusText.text = status;
+		}
 	}
 
 	private IEnumerator BeepBoop()
@@ -58,27 +80,15 @@ public class TestSocketIO : MonoBehaviour
 		yield return new WaitForSeconds(1);
 		
 		socket.Emit("beep");
-		
-		// wait 3 seconds and continue
-		yield return new WaitForSeconds(3);
-		
-		socket.Emit("beep");
-		
-		// wait 2 seconds and continue
-		yield return new WaitForSeconds(2);
-		
-		socket.Emit("beep");
-		
-		// wait ONE FRAME and continue
-		yield return null;
-		
-		socket.Emit("beep");
-		socket.Emit("beep");
+
 	}
 
 	public void TestOpen(SocketIOEvent e)
 	{
 		Debug.Log("[SocketIO] Open received: " + e.name + " " + e.data);
+
+		status = "Connected";
+
 	}
 
 	public void Chat(SocketIOEvent e)
@@ -89,7 +99,15 @@ public class TestSocketIO : MonoBehaviour
 	public void TestBoop(SocketIOEvent e)
 	{
 		Debug.Log("[SocketIO] Boop received: " + e.name + " " + e.data);
-		animHandler.letthisfuckerstart ();
+
+		if (animHandler != null) {
+			animHandler.letthisfuckerstart ();
+
+		}
+
+		//updateText ("Lets Go");
+		status = "Lets Go";
+		
 		if (e.data == null) { return; }
 
 		Debug.Log(
@@ -101,11 +119,13 @@ public class TestSocketIO : MonoBehaviour
 	
 	public void TestError(SocketIOEvent e)
 	{
-		//Debug.Log("[SocketIO] Error received: " + e.name + " " + e.data);
+		Debug.Log("[SocketIO] Error received: " + e.name + " " + e.data);
+
+		status = "Error " + e.data;
 	}
 	
 	public void TestClose(SocketIOEvent e)
 	{	
-		//Debug.Log("[SocketIO] Close received: " + e.name + " " + e.data);
+		Debug.Log("[SocketIO] Close received: " + e.name + " " + e.data);
 	}
 }

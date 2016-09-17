@@ -58,8 +58,10 @@ public class TestSocketIO : MonoBehaviour
 	}
 
 	void Update() {
-		if (statusText.text != status) {
-			statusText.text = status;
+		if (statusText != null) {
+			if (statusText.text != status) {
+				statusText.text = status;
+			}
 		}
 	}
 
@@ -68,11 +70,7 @@ public class TestSocketIO : MonoBehaviour
 		socket.Close ();
 	}
 
-	private void updateText (string status) {
-		if(statusText != null) {
-			statusText.text = status;
-		}
-	}
+
 
 	private IEnumerator BeepBoop()
 	{

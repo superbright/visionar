@@ -143,7 +143,7 @@ public class AnimationHandler : MonoBehaviour
 	}
 
 	public void Trigger(int id) {
-		if (id > 14)
+		if (id > 16)
 			return;
 		objectsModel1[id-1].move (Scene1toInd);
 

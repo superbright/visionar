@@ -49,37 +49,25 @@ public class BezierCurveObject : MonoBehaviour {
 
 		cr = new LTBezierPath (scenes [0].VectorCoords);
 		if (screenscale != Vector3.zero) {
-			LeanTween.scale (gameObject, screenscale, 0.5f);
+			LeanTween.scale (gameObject, screenscale, 0.5f).setDelay(1.5f);
 		}
 
-		Debug.Log ("move");
-		LeanTween.move(gameObject, cr.pts, 2.8f).setEase(LeanTweenType.easeInQuad).setDelay(2.2f).setOrientToPath(false).setOnComplete
+		if (screenrotation1 != Vector3.zero) {
+			LeanTween.rotateLocal (gameObject, screenrotation1, 0.6f).setEase (LeanTweenType.easeInBack).setDelay(1.5f);
+		}
+		else
+		{
+			LeanTween.rotateLocal (gameObject, new Vector3 (0, 25, 0), 0.6f).setEase (LeanTweenType.easeInBack).setDelay(1.5f);
+		}
+			
+		LeanTween.move(gameObject, cr.pts, 2.8f).setEase(LeanTweenType.easeInQuad).setDelay(1.2f).setOrientToPath(false).setOnComplete
 		(
 
 			()=>{
-				if (screenrotation1 != Vector3.zero) {
-					LeanTween.rotateLocal(gameObject, screenrotation1,0.6f).setEase(LeanTweenType.easeInBack).setOnComplete 
-					(//screenrotation1
-						()=>{
-
+				
 							StartCoroutine(CallMoveRoutine());
-							//Debug.Log("callroutin");
-						}
-					);
-				}
-				else
-				{
-					LeanTween.rotateLocal(gameObject, new Vector3(0,25,0),0.6f).setEase(LeanTweenType.easeInBack).setOnComplete
-					(  //screenrotation1
-						()=>{
-							
-							StartCoroutine(CallMoveRoutine());
-							//Debug.Log("callroutin");
-						}
-					);
-				}
+						
 			}
-		
 		);
 	}
 

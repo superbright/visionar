@@ -40,6 +40,7 @@ public class TestSocketIO : MonoBehaviour
 	//public TMPro. 
 	public TMPro.TMP_Text statusText;
 	//public UnityEngine.UI.Text statusText;
+	public SocketNotificationHandler socketUIOnCavas;
 
 	string status = "";
 
@@ -61,6 +62,7 @@ public class TestSocketIO : MonoBehaviour
 		if (statusText != null) {
 			if (statusText.text != status) {
 				statusText.text = status;
+				if(status.ToLower() == "connected") socketUIOnCavas.setConnected ();
 			}
 		}
 	}
@@ -87,6 +89,7 @@ public class TestSocketIO : MonoBehaviour
 
 		status = "Connected";
 
+
 	}
 
 	public void Chat(SocketIOEvent e)
@@ -100,6 +103,7 @@ public class TestSocketIO : MonoBehaviour
 
 		if (animHandler != null) {
 			animHandler.letthisfuckerstart ();
+
 
 		}
 

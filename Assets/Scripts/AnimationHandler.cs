@@ -72,41 +72,69 @@ public class AnimationHandler : MonoBehaviour
 //			}
 		}
 
-		if (GUI.Button (new Rect (10, 130, 300, 60), "ANIM")) {
+//		if (GUI.Button (new Rect (10, 130, 300, 60), "ANIM")) {
+//			for (int k = 0; k < 3; k++) {
+//				objectsModel1[k].move (Scene1toInd);
+//			}
+//		}
+
+		if (GUI.Button (new Rect (10, 130, 300, 60), "SCENE1")) {
 			for (int k = 0; k < 3; k++) {
 				objectsModel1[k].move (Scene1toInd);
 			}
+			objectsModel1[10].move (Scene1toInd);
 		}
-		if (GUI.Button (new Rect (10, 190, 300, 60), "Move POS Y +5")) {
-			Vector3 pos = positionobject.transform.position;
-			LeanTween.move (positionobject, new Vector3 (pos.x, pos.y + 5, pos.z), 0.4f);
-			Debug.Log (new Vector3 (pos.x, pos.y + 5, pos.z));
+		if (GUI.Button (new Rect (10, 190, 300, 60), "SCENE2")) {
+			for (int k = 3; k < 5; k++) {
+				objectsModel1[k].move (Scene1toInd);
+			}
+			objectsModel1[11].move (Scene1toInd);
 		}
-		if (GUI.Button (new Rect (10, 250, 300, 60), "Move POS Y -5")) {
-			Vector3 pos = positionobject.transform.position;
-			LeanTween.move (positionobject, new Vector3 (pos.x, pos.y - 5, pos.z), 0.4f);
-			Debug.Log (new Vector3 (pos.x, pos.y - 5, pos.z));
+		if (GUI.Button (new Rect (10, 250, 300, 60), "SCENE3")) {
+			for (int k = 5; k < 8; k++) {
+				objectsModel1[k].move (Scene1toInd);
+			}
 		}
-		if (GUI.Button (new Rect (10, 310, 300, 60), "Move POS X -5")) {
-			Vector3 pos = positionobject.transform.position;
-			LeanTween.move (positionobject, new Vector3 (pos.x - 5, pos.y, pos.z), 0.4f);
-			Debug.Log (new Vector3 (pos.x-5, pos.y, pos.z));
+		if (GUI.Button (new Rect (10, 310, 300, 60), "SCENE4")) {
+			for (int k = 8; k < 10; k++) {
+				objectsModel1[k].move (Scene1toInd);
+			}
+			objectsModel1[12].move (Scene1toInd);
+			objectsModel1[13].move (Scene1toInd);
 		}
-		if (GUI.Button (new Rect (10, 310, 300, 60), "Move POS X +5")) {
-			Vector3 pos = positionobject.transform.position;
-			LeanTween.move (positionobject, new Vector3 (pos.x +5, pos.y, pos.z), 0.4f);
-			Debug.Log (new Vector3 (pos.x+5, pos.y, pos.z));
-		}
-		if (GUI.Button (new Rect (10, 370, 300, 60), "Move POS Z -5")) {
-			Vector3 pos = positionobject.transform.position;
-			LeanTween.move (positionobject, new Vector3 (pos.x, pos.y, pos.z - 5), 0.4f);
-			Debug.Log (new Vector3 (pos.x, pos.y, pos.z-5));
-		}
-		if (GUI.Button (new Rect (10, 430, 300, 60), "Move POS Z +5")) {
-			Vector3 pos = positionobject.transform.position;
-			LeanTween.move (positionobject, new Vector3 (pos.x, pos.y, pos.z + 5), 0.4f);
-			Debug.Log (new Vector3 (pos.x, pos.y, pos.z + 5));
-		}
+
+
+
+//		if (GUI.Button (new Rect (10, 190, 300, 60), "Move POS Y +5")) {
+//			Vector3 pos = positionobject.transform.position;
+//			LeanTween.move (positionobject, new Vector3 (pos.x, pos.y + 5, pos.z), 0.4f);
+//			Debug.Log (new Vector3 (pos.x, pos.y + 5, pos.z));
+//		}
+//		if (GUI.Button (new Rect (10, 250, 300, 60), "Move POS Y -5")) {
+//			Vector3 pos = positionobject.transform.position;
+//			LeanTween.move (positionobject, new Vector3 (pos.x, pos.y - 5, pos.z), 0.4f);
+//			Debug.Log (new Vector3 (pos.x, pos.y - 5, pos.z));
+//		}
+//		if (GUI.Button (new Rect (10, 310, 300, 60), "Move POS X -5")) {
+//			Vector3 pos = positionobject.transform.position;
+//			LeanTween.move (positionobject, new Vector3 (pos.x - 5, pos.y, pos.z), 0.4f);
+//			Debug.Log (new Vector3 (pos.x-5, pos.y, pos.z));
+//		}
+//		if (GUI.Button (new Rect (10, 310, 300, 60), "Move POS X +5")) {
+//			Vector3 pos = positionobject.transform.position;
+//			LeanTween.move (positionobject, new Vector3 (pos.x +5, pos.y, pos.z), 0.4f);
+//			Debug.Log (new Vector3 (pos.x+5, pos.y, pos.z));
+//		}
+//		if (GUI.Button (new Rect (10, 370, 300, 60), "Move POS Z -5")) {
+//			Vector3 pos = positionobject.transform.position;
+//			LeanTween.move (positionobject, new Vector3 (pos.x, pos.y, pos.z - 5), 0.4f);
+//			Debug.Log (new Vector3 (pos.x, pos.y, pos.z-5));
+//		}
+//		if (GUI.Button (new Rect (10, 430, 300, 60), "Move POS Z +5")) {
+//			Vector3 pos = positionobject.transform.position;
+//			LeanTween.move (positionobject, new Vector3 (pos.x, pos.y, pos.z + 5), 0.4f);
+//			Debug.Log (new Vector3 (pos.x, pos.y, pos.z + 5));
+//		}
 
 	}
 
@@ -115,7 +143,7 @@ public class AnimationHandler : MonoBehaviour
 	}
 
 	public void Trigger(int id) {
-		if (id > 10)
+		if (id > 14)
 			return;
 		objectsModel1[id-1].move (Scene1toInd);
 

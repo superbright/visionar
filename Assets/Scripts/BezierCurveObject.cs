@@ -98,11 +98,11 @@ public class BezierCurveObject : MonoBehaviour {
 
 	public void RevealDataPart2(float delay) {
 		if (screenrotation3 != Vector3.zero) {
-			LeanTween.rotateLocal(gameObject,screenrotation3,0.3f).setEase(LeanTweenType.easeInQuad).setDelay(delay); //screenrotation2
+			LeanTween.rotateLocal(gameObject,screenrotation3,0.6f).setEase(LeanTweenType.easeInQuad).setDelay(delay); //screenrotation2
 			//rotate to screenrotation to
 		}else{					  
 		//LeanTween.rot
-			LeanTween.rotateLocal(gameObject,Vector3.zero,0.3f).setEase(LeanTweenType.easeInQuad).setDelay(delay);  //screenrotation3
+			LeanTween.rotateLocal(gameObject,Vector3.zero,0.6f).setEase(LeanTweenType.easeInQuad).setDelay(delay);  //screenrotation3
 		}
 	}
 

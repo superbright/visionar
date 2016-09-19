@@ -60,7 +60,7 @@ public class BezierCurveObject : MonoBehaviour {
 			LeanTween.rotateLocal (gameObject, new Vector3 (0, 25, 0), 0.6f).setEase (LeanTweenType.easeInBack).setDelay(1.5f);
 		}
 			
-		LeanTween.move(gameObject, cr.pts, 0.9f).setEase(LeanTweenType.easeInQuad).setDelay(1.2f).setOrientToPath(false).setOnComplete
+		LeanTween.move(gameObject, cr.pts, 0.9f).setEase(LeanTweenType.easeInQuad).setDelay(0.2f).setOrientToPath(false).setOnComplete
 		(
 			()=>{
 							StartCoroutine(CallMoveRoutine());

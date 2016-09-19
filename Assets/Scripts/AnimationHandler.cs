@@ -18,6 +18,7 @@ public class AnimationHandler : MonoBehaviour
 	public Animator LeftMarkerAnimator;
 	public Animator RightMarkerAnimator;
 	public Animator MapAnimator;
+	public Animator MapMarkerAnimator;
 	public Animator CenterAnimations;
 
 	public UnityEngine.UI.Text sceneid;
@@ -83,53 +84,53 @@ public class AnimationHandler : MonoBehaviour
 
 //		if (GUI.Button (new Rect (10, 130, 300, 60), "LOOK1_MAP")) {
 //			for (int k = 14; k < 16; k++) {
-//				objectsModel1[k].move (Scene1toInd);
+//				objectsModel1[k].moveStraight (Scene1toInd);
 //			}
 //		}
 //
 //		if (GUI.Button (new Rect (10, 190, 300, 60), "LOOK2_MAP")) {
 //			for (int k = 16; k < 18; k++) {
-//				objectsModel1 [k].move (Scene1toInd);
+//				objectsModel1 [k].moveStraight (Scene1toInd);
 //			}
 //		}
 //
 //		if (GUI.Button (new Rect (10, 250, 300, 60), "LOOK3_MAP")) {
 //			for (int k = 18; k < 20; k++) {
-//				objectsModel1 [k].move (Scene1toInd);
+//				objectsModel1 [k].moveStraight (Scene1toInd);
 //			}
 //		}
 //
 //		if (GUI.Button (new Rect (10, 310, 300, 60), "LOOK4_MAP")) {
 //			for (int k = 20; k < 22; k++) {
-//				objectsModel1 [k].move (Scene1toInd);
+//				objectsModel1 [k].moveStraight (Scene1toInd);
 //			}
 //		}
+//
 
-
-//		if (GUI.Button (new Rect (10, 130, 300, 60), "SCENE1")) {
-//			for (int k = 0; k < 3; k++) {
-//				objectsModel1[k].move (Scene1toInd);
-//			}
-//			objectsModel1[10].move (Scene1toInd);
-//		}
-//		if (GUI.Button (new Rect (10, 190, 300, 60), "SCENE2")) {
-//			for (int k = 3; k < 5; k++) {
-//				objectsModel1[k].move (Scene1toInd);
-//			}
-//			objectsModel1[11].move (Scene1toInd);
-//		}
-//		if (GUI.Button (new Rect (10, 250, 300, 60), "SCENE3")) {
-//			for (int k = 5; k < 8; k++) {
-//				objectsModel1[k].move (Scene1toInd);
-//			}
-//		}
-//		if (GUI.Button (new Rect (10, 310, 300, 60), "SCENE4")) {
-//			for (int k = 8; k < 10; k++) {
-//				objectsModel1[k].move (Scene1toInd);
-//			}
-//			objectsModel1[12].move (Scene1toInd);
-//			objectsModel1[13].move (Scene1toInd);
-//		}
+		if (GUI.Button (new Rect (10, 130, 300, 60), "SCENE1")) {
+			for (int k = 0; k < 3; k++) {
+				objectsModel1[k].moveStraight (Scene1toInd);
+			}
+			objectsModel1[10].moveStraight (Scene1toInd);
+		}
+		if (GUI.Button (new Rect (10, 190, 300, 60), "SCENE2")) {
+			for (int k = 3; k < 5; k++) {
+				objectsModel1[k].moveStraight (Scene1toInd);
+			}
+			objectsModel1[11].moveStraight (Scene1toInd);
+		}
+		if (GUI.Button (new Rect (10, 250, 300, 60), "SCENE3")) {
+			for (int k = 5; k < 8; k++) {
+				objectsModel1[k].moveStraight (Scene1toInd);
+			}
+		}
+		if (GUI.Button (new Rect (10, 310, 300, 60), "SCENE4")) {
+			for (int k = 8; k < 10; k++) {
+				objectsModel1[k].moveStraight (Scene1toInd);
+			}
+			objectsModel1[12].moveStraight (Scene1toInd);
+			objectsModel1[13].moveStraight (Scene1toInd);
+		}
 
 
 
@@ -173,7 +174,9 @@ public class AnimationHandler : MonoBehaviour
 	public void Trigger(int id) {
 		if (id >23)
 			return;
-		objectsModel1[id-1].move (Scene1toInd);
+
+		objectsModel1[id-1].moveStraight (Scene1toInd);
+		//objectsModel1[id-1].move (Scene1toInd);
 
 	}
 
@@ -198,6 +201,8 @@ public class AnimationHandler : MonoBehaviour
 		RightMarkerAnimator.SetTrigger (trigger);
 		MapAnimator.SetTrigger (trigger);
 		CenterAnimations.SetTrigger (trigger);
+		MapMarkerAnimator.SetTrigger (trigger);
+
 		yield return new WaitForSeconds(10.0f);
 		currentScene++;
 

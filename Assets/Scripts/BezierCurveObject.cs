@@ -49,15 +49,15 @@ public class BezierCurveObject : MonoBehaviour {
 
 		cr = new LTBezierPath (scenes [0].VectorCoords);
 		if (screenscale != Vector3.zero) {
-			LeanTween.scale (gameObject, screenscale, 0.5f).setDelay(1.5f);
+			LeanTween.scale (gameObject, screenscale, 0.5f).setDelay(0.2f);
 		}
 
 		if (screenrotation1 != Vector3.zero) {
-			LeanTween.rotateLocal (gameObject, screenrotation1, 0.6f).setEase (LeanTweenType.easeInBack).setDelay(1.5f);
+			LeanTween.rotateLocal (gameObject, screenrotation1, 0.6f).setEase (LeanTweenType.easeInBack).setDelay(0.2f);
 		}
 		else
 		{
-			LeanTween.rotateLocal (gameObject, new Vector3 (0, 25, 0), 0.6f).setEase (LeanTweenType.easeInBack).setDelay(1.5f);
+			LeanTween.rotateLocal (gameObject, new Vector3 (0, 25, 0), 0.6f).setEase (LeanTweenType.easeInBack).setDelay(0.2f);
 		}
 			
 		LeanTween.move(gameObject, cr.pts, 0.9f).setEase(LeanTweenType.easeInQuad).setDelay(0.2f).setOrientToPath(false).setOnComplete
@@ -87,7 +87,7 @@ public class BezierCurveObject : MonoBehaviour {
 		float destX = destionationObject.transform.position.x;
 		float destZ = destionationObject.transform.position.z;
 
-		LeanTween.moveY(gameObject,destY/3,0.5f).setEase(LeanTweenType.easeOutQuad).setDelay(1.2f).setOnComplete
+		LeanTween.moveY(gameObject,destY/2,0.5f).setEase(LeanTweenType.easeOutQuad).setDelay(1.2f).setOnComplete
 		(
 			()=>{
 				LeanTween.moveX(gameObject,destX,0.7f).setEase(LeanTweenType.easeOutQuad).setOnComplete(

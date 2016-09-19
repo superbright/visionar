@@ -1156,6 +1156,13 @@ ModelImporter:
         floatParameter: 0
         intParameter: 17
         messageOptions: 0
+      - time: 0.31457818
+        functionName: Trigger
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 18
+        messageOptions: 0
       transformMask:
       - path: 
         weight: 1
@@ -1515,7 +1522,21 @@ ModelImporter:
       mirror: 0
       bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
       curves: []
-      events: []
+      events:
+      - time: 0.6675189
+        functionName: Trigger
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 19
+        messageOptions: 0
+      - time: 0.64705884
+        functionName: Trigger
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 20
+        messageOptions: 0
       transformMask:
       - path: 
         weight: 1
@@ -2115,7 +2136,21 @@ ModelImporter:
       mirror: 0
       bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
       curves: []
-      events: []
+      events:
+      - time: 0.5345275
+        functionName: Trigger
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 21
+        messageOptions: 0
+      - time: 0.4424557
+        functionName: Trigger
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 22
+        messageOptions: 0
       transformMask:
       - path: 
         weight: 1

@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: 20f66bec0d67f44099f39f6fb8862ba6
+timeCreated: 1474313064
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 10_red_large_outlines___Left
+    100002: 10_red_large_outlines___Left_1
+    100004: 10_red_large_outlines___Left_1_2
+    100006: 10_red_large_outlines___Left_2
+    100008: 10_red_large_outlines___Left_2_2
+    100010: 10_red_large_outlines___Left_3
+    100012: 10_red_large_outlines___Left_4
+    100014: 5_black_square1___Look3___Item2
+    100016: 5_black_square1___Look3___Item2_1
+    100018: 5_black_square1___Look3___Item2_2
+    100020: 5_black_square1___Look3___Item2_2_2
+    100022: 5_black_square1___Look3___Item2_2_3
+    100024: 5_black_square1___Look3___Item2_3
+    100026: 5_black_square1___Look3___Item2_4
+    100028: 6_pale_blue___array1
+    100030: 6_pale_blue___array1_1
+    100032: 6_pale_blue___array1_2
+    100034: Cube
+    100036: faceLEFT
+    100038: faceRIGHT
+    100040: //RootNode
+    100042: Tracking_Engaged_LEFT
+    100044: Tracking_Engaged_RIGHT
+    400000: 10_red_large_outlines___Left
+    400002: 10_red_large_outlines___Left_1
+    400004: 10_red_large_outlines___Left_1_2
+    400006: 10_red_large_outlines___Left_2
+    400008: 10_red_large_outlines___Left_2_2
+    400010: 10_red_large_outlines___Left_3
+    400012: 10_red_large_outlines___Left_4
+    400014: 5_black_square1___Look3___Item2
+    400016: 5_black_square1___Look3___Item2_1
+    400018: 5_black_square1___Look3___Item2_2
+    400020: 5_black_square1___Look3___Item2_2_2
+    400022: 5_black_square1___Look3___Item2_2_3
+    400024: 5_black_square1___Look3___Item2_3
+    400026: 5_black_square1___Look3___Item2_4
+    400028: 6_pale_blue___array1
+    400030: 6_pale_blue___array1_1
+    400032: 6_pale_blue___array1_2
+    400034: Cube
+    400036: faceLEFT
+    400038: faceRIGHT
+    400040: //RootNode
+    400042: Tracking_Engaged_LEFT
+    400044: Tracking_Engaged_RIGHT
+    2300000: 10_red_large_outlines___Left
+    2300002: 10_red_large_outlines___Left_1
+    2300004: 10_red_large_outlines___Left_1_2
+    2300006: 10_red_large_outlines___Left_2
+    2300008: 10_red_large_outlines___Left_2_2
+    2300010: 10_red_large_outlines___Left_3
+    2300012: 10_red_large_outlines___Left_4
+    2300014: 5_black_square1___Look3___Item2
+    2300016: 5_black_square1___Look3___Item2_1
+    2300018: 5_black_square1___Look3___Item2_2
+    2300020: 5_black_square1___Look3___Item2_2_2
+    2300022: 5_black_square1___Look3___Item2_2_3
+    2300024: 5_black_square1___Look3___Item2_3
+    2300026: 5_black_square1___Look3___Item2_4
+    2300028: 6_pale_blue___array1
+    2300030: 6_pale_blue___array1_1
+    2300032: 6_pale_blue___array1_2
+    2300034: Cube
+    2300036: faceLEFT
+    2300038: faceRIGHT
+    3300000: 10_red_large_outlines___Left
+    3300002: 10_red_large_outlines___Left_1
+    3300004: 10_red_large_outlines___Left_1_2
+    3300006: 10_red_large_outlines___Left_2
+    3300008: 10_red_large_outlines___Left_2_2
+    3300010: 10_red_large_outlines___Left_3
+    3300012: 10_red_large_outlines___Left_4
+    3300014: 5_black_square1___Look3___Item2
+    3300016: 5_black_square1___Look3___Item2_1
+    3300018: 5_black_square1___Look3___Item2_2
+    3300020: 5_black_square1___Look3___Item2_2_2
+    3300022: 5_black_square1___Look3___Item2_2_3
+    3300024: 5_black_square1___Look3___Item2_3
+    3300026: 5_black_square1___Look3___Item2_4
+    3300028: 6_pale_blue___array1
+    3300030: 6_pale_blue___array1_1
+    3300032: 6_pale_blue___array1_2
+    3300034: Cube
+    3300036: faceLEFT
+    3300038: faceRIGHT
+    4300000: faceRIGHT
+    4300002: 6_pale_blue___array1_1
+    4300004: 5_black_square1___Look3___Item2_2
+    4300006: 5_black_square1___Look3___Item2_4
+    4300008: 5_black_square1___Look3___Item2_3
+    4300010: 5_black_square1___Look3___Item2
+    4300012: 10_red_large_outlines___Left
+    4300014: 10_red_large_outlines___Left_4
+    4300016: 6_pale_blue___array1
+    4300018: Cube
+    4300020: faceLEFT
+    4300022: 10_red_large_outlines___Left_2
+    4300024: 10_red_large_outlines___Left_3
+    4300026: 5_black_square1___Look3___Item2_2_2
+    4300028: 5_black_square1___Look3___Item2_1
+    4300030: 5_black_square1___Look3___Item2_2_3
+    4300032: 10_red_large_outlines___Left_1
+    4300034: 10_red_large_outlines___Left_1_2
+    4300036: 10_red_large_outlines___Left_2_2
+    4300038: 6_pale_blue___array1_2
+    7400000: Tracking Engaged
+    7400002: IDLE
+    7400004: OUTRO
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Tracking Engaged
+      takeName: C4D Animation Take
+      firstFrame: 0
+      lastFrame: 82
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Tracking_Engaged_LEFT
+        weight: 1
+      - path: Tracking_Engaged_LEFT/5_black_square1___Look3___Item2_1
+        weight: 1
+      - path: Tracking_Engaged_LEFT/5_black_square1___Look3___Item2_2_2
+        weight: 1
+      - path: Tracking_Engaged_LEFT/5_black_square1___Look3___Item2_2_3
+        weight: 1
+      - path: Tracking_Engaged_LEFT/6_pale_blue___array1_2
+        weight: 1
+      - path: Tracking_Engaged_LEFT/10_red_large_outlines___Left_1
+        weight: 1
+      - path: Tracking_Engaged_LEFT/10_red_large_outlines___Left_1_2
+        weight: 1
+      - path: Tracking_Engaged_LEFT/10_red_large_outlines___Left_2
+        weight: 1
+      - path: Tracking_Engaged_LEFT/10_red_large_outlines___Left_2_2
+        weight: 1
+      - path: Tracking_Engaged_LEFT/10_red_large_outlines___Left_3
+        weight: 1
+      - path: Tracking_Engaged_LEFT/faceLEFT
+        weight: 1
+      - path: Tracking_Engaged_RIGHT
+        weight: 1
+      - path: Tracking_Engaged_RIGHT/5_black_square1___Look3___Item2
+        weight: 1
+      - path: Tracking_Engaged_RIGHT/5_black_square1___Look3___Item2_2
+        weight: 1
+      - path: Tracking_Engaged_RIGHT/5_black_square1___Look3___Item2_3
+        weight: 1
+      - path: Tracking_Engaged_RIGHT/5_black_square1___Look3___Item2_4
+        weight: 1
+      - path: Tracking_Engaged_RIGHT/6_pale_blue___array1
+        weight: 1
+      - path: Tracking_Engaged_RIGHT/6_pale_blue___array1_1
+        weight: 1
+      - path: Tracking_Engaged_RIGHT/10_red_large_outlines___Left
+        weight: 1
+      - path: Tracking_Engaged_RIGHT/10_red_large_outlines___Left_4
+        weight: 1
+      - path: Tracking_Engaged_RIGHT/Cube
+        weight: 1
+      - path: Tracking_Engaged_RIGHT/faceRIGHT
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: IDLE
+      takeName: C4D Animation Take
+      firstFrame: 0
+      lastFrame: 0
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Tracking_Engaged_LEFT
+        weight: 1
+      - path: Tracking_Engaged_LEFT/5_black_square1___Look3___Item2_1
+        weight: 1
+      - path: Tracking_Engaged_LEFT/5_black_square1___Look3___Item2_2_2
+        weight: 1
+      - path: Tracking_Engaged_LEFT/5_black_square1___Look3___Item2_2_3
+        weight: 1
+      - path: Tracking_Engaged_LEFT/6_pale_blue___array1_2
+        weight: 1
+      - path: Tracking_Engaged_LEFT/10_red_large_outlines___Left_1
+        weight: 1
+      - path: Tracking_Engaged_LEFT/10_red_large_outlines___Left_1_2
+        weight: 1
+      - path: Tracking_Engaged_LEFT/10_red_large_outlines___Left_2
+        weight: 1
+      - path: Tracking_Engaged_LEFT/10_red_large_outlines___Left_2_2
+        weight: 1
+      - path: Tracking_Engaged_LEFT/10_red_large_outlines___Left_3
+        weight: 1
+      - path: Tracking_Engaged_LEFT/faceLEFT
+        weight: 1
+      - path: Tracking_Engaged_RIGHT
+        weight: 1
+      - path: Tracking_Engaged_RIGHT/5_black_square1___Look3___Item2
+        weight: 1
+      - path: Tracking_Engaged_RIGHT/5_black_square1___Look3___Item2_2
+        weight: 1
+      - path: Tracking_Engaged_RIGHT/5_black_square1___Look3___Item2_3
+        weight: 1
+      - path: Tracking_Engaged_RIGHT/5_black_square1___Look3___Item2_4
+        weight: 1
+      - path: Tracking_Engaged_RIGHT/6_pale_blue___array1
+        weight: 1
+      - path: Tracking_Engaged_RIGHT/6_pale_blue___array1_1
+        weight: 1
+      - path: Tracking_Engaged_RIGHT/10_red_large_outlines___Left
+        weight: 1
+      - path: Tracking_Engaged_RIGHT/10_red_large_outlines___Left_4
+        weight: 1
+      - path: Tracking_Engaged_RIGHT/Cube
+        weight: 1
+      - path: Tracking_Engaged_RIGHT/faceRIGHT
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: OUTRO
+      takeName: C4D Animation Take
+      firstFrame: 0
+      lastFrame: 0
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Tracking_Engaged_LEFT
+        weight: 1
+      - path: Tracking_Engaged_LEFT/5_black_square1___Look3___Item2_1
+        weight: 1
+      - path: Tracking_Engaged_LEFT/5_black_square1___Look3___Item2_2_2
+        weight: 1
+      - path: Tracking_Engaged_LEFT/5_black_square1___Look3___Item2_2_3
+        weight: 1
+      - path: Tracking_Engaged_LEFT/6_pale_blue___array1_2
+        weight: 1
+      - path: Tracking_Engaged_LEFT/10_red_large_outlines___Left_1
+        weight: 1
+      - path: Tracking_Engaged_LEFT/10_red_large_outlines___Left_1_2
+        weight: 1
+      - path: Tracking_Engaged_LEFT/10_red_large_outlines___Left_2
+        weight: 1
+      - path: Tracking_Engaged_LEFT/10_red_large_outlines___Left_2_2
+        weight: 1
+      - path: Tracking_Engaged_LEFT/10_red_large_outlines___Left_3
+        weight: 1
+      - path: Tracking_Engaged_LEFT/faceLEFT
+        weight: 1
+      - path: Tracking_Engaged_RIGHT
+        weight: 1
+      - path: Tracking_Engaged_RIGHT/5_black_square1___Look3___Item2
+        weight: 1
+      - path: Tracking_Engaged_RIGHT/5_black_square1___Look3___Item2_2
+        weight: 1
+      - path: Tracking_Engaged_RIGHT/5_black_square1___Look3___Item2_3
+        weight: 1
+      - path: Tracking_Engaged_RIGHT/5_black_square1___Look3___Item2_4
+        weight: 1
+      - path: Tracking_Engaged_RIGHT/6_pale_blue___array1
+        weight: 1
+      - path: Tracking_Engaged_RIGHT/6_pale_blue___array1_1
+        weight: 1
+      - path: Tracking_Engaged_RIGHT/10_red_large_outlines___Left
+        weight: 1
+      - path: Tracking_Engaged_RIGHT/10_red_large_outlines___Left_4
+        weight: 1
+      - path: Tracking_Engaged_RIGHT/Cube
+        weight: 1
+      - path: Tracking_Engaged_RIGHT/faceRIGHT
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

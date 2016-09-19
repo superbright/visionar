@@ -88,7 +88,7 @@ public class BezierCurveObject : MonoBehaviour {
 		float destX = destionationObject.transform.position.x;
 		float destZ = destionationObject.transform.position.z;
 
-		LeanTween.moveY(gameObject,destY/2,0.5f).setEase(LeanTweenType.easeOutQuad).setDelay(1.2f).setOnComplete
+		LeanTween.moveY(gameObject,destY/1.5f,1.2f).setEase(LeanTweenType.easeOutQuad).setDelay(0f).setOnComplete
 		(
 			()=>{
 				LeanTween.moveX(gameObject,destX,0.7f).setEase(LeanTweenType.easeOutQuad).setOnComplete(

@@ -15,12 +15,18 @@ public class AnimationHandler : MonoBehaviour
 	int currentModel = 0;
 	int totalScenes = 16;
 
+	public GameObject leftMarkerSS;
+	public GameObject rightMarkerSS;
+
 	public Animator LeftMarkerAnimator;
 	public Animator RightMarkerAnimator;
 	public Animator MapAnimator;
 	public Animator MapMarkerAnimator;
 	public Animator CenterAnimations;
 	public Animator BannerAnimations;
+
+	public Animator LeftBorder;
+	public Animator RightBorder;
 
 	public UnityEngine.UI.Text sceneid;
 
@@ -50,9 +56,6 @@ public class AnimationHandler : MonoBehaviour
 		Scene2toInd = Animator.StringToHash ("Scene2-Ind");
 
 		ready = true;
-		sceneid.text = "home";
-
-
 
 	}
 
@@ -61,6 +64,8 @@ public class AnimationHandler : MonoBehaviour
 	{
 		if (ready) {
 			if (GUI.Button (new Rect (10, 70, 300, 60), "BEGIN ANIMATION")) {
+				Destroy (leftMarkerSS);
+				Destroy (rightMarkerSS);
 				StartCoroutine (AnimationSequence ());
 			}
 
@@ -169,6 +174,11 @@ public class AnimationHandler : MonoBehaviour
 	}
 
 	public void letthisfuckerstart() {
+		leftMarkerSS.SetActive (false);
+		rightMarkerSS.SetActive (false);
+		Destroy (leftMarkerSS);
+		Destroy (rightMarkerSS);
+
 		StartCoroutine (AnimationSequence ());
 	}
 
@@ -193,9 +203,7 @@ public class AnimationHandler : MonoBehaviour
 
 	public IEnumerator AnimationSequence() {
 		ready = false;
-		sceneid.text = "scene1";
 
-		
 		string trigger = getTriggername (currentScene);
 
 		LeftMarkerAnimator.SetTrigger (trigger);
@@ -204,6 +212,8 @@ public class AnimationHandler : MonoBehaviour
 		CenterAnimations.SetTrigger (trigger);
 		MapMarkerAnimator.SetTrigger (trigger);
 		BannerAnimations.SetTrigger (trigger);
+		LeftBorder.SetTrigger (trigger);
+		RightBorder.SetTrigger (trigger);
 
 		yield return new WaitForSeconds(10.0f);
 		currentScene++;
@@ -215,68 +225,11 @@ public class AnimationHandler : MonoBehaviour
 		StartCoroutine (AnimationSequence ());
 
 	}
-
-
-	public IEnumerator AnimSequence() {
-
-		ready = false;
-		sceneid.text = "scene1";
-
-		LeftMarkerAnimator.SetTrigger ("IDLEtoScene1");
-		RightMarkerAnimator.SetTrigger ("IDLEtoScene1");
-		yield return new WaitForSeconds(10.0f);
-
-		sceneid.text = "scene2";
-		LeftMarkerAnimator.SetTrigger ("Scene1toScene2");
-		RightMarkerAnimator.SetTrigger ("Scene1toScene2");
-		yield return new WaitForSeconds(10.0f);
-
-		sceneid.text = "scene3";
-		LeftMarkerAnimator.SetTrigger ("Scene2toScene3");
-		RightMarkerAnimator.SetTrigger ("Scene2toScene3");
-		yield return new WaitForSeconds(5.0f);
-		for (int k = 0; k < objectsModel1.Length; k++) {
-			objectsModel1[k].move (Scene1toInd);
-		}
-		yield return new WaitForSeconds(4.0f);
-
-
-		sceneid.text = "scene4";
-		LeftMarkerAnimator.SetTrigger ("Scene3toScene4");
-		RightMarkerAnimator.SetTrigger ("Scene3toScene4");
-		yield return new WaitForSeconds(3.0f);
-
-
-		for (int k = 0; k < objectsModel1.Length; k++) {
-			objectsModel1 [k].RevealDataPart1 (k * 0.2f);
-		}
-
-		map2d.SetActive (true);
-		mapmotion.animateforward ();
-
-		yield return new WaitForSeconds(8.0f);
-		map2d.SetActive (false);
-
-		for (int k = 0; k < objectsModel1.Length; k++) {
-			objectsModel1[k].SceneOut();
-		}
-
-		yield return new WaitForSeconds(2.0f);
-
-		sceneid.text = "home";
-		LeftMarkerAnimator.SetTrigger ("Scene4toIdle");
-		RightMarkerAnimator.SetTrigger ("Scene4toIdle");
-
-		ready = true;
-	}
-
+		
 
 	void OnComplete (object completedObject)
 	{
 		GameObject obj = (GameObject)completedObject;
-		Debug.Log (obj);
-		Debug.Log (obj.name);
-
 	}
 
 }

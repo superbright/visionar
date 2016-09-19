@@ -60,18 +60,44 @@ public class BezierCurveObject : MonoBehaviour {
 			LeanTween.rotateLocal (gameObject, new Vector3 (0, 25, 0), 0.6f).setEase (LeanTweenType.easeInBack).setDelay(1.5f);
 		}
 			
-		LeanTween.move(gameObject, cr.pts, 2.8f).setEase(LeanTweenType.easeInQuad).setDelay(1.2f).setOrientToPath(false).setOnComplete
+		LeanTween.move(gameObject, cr.pts, 0.9f).setEase(LeanTweenType.easeInQuad).setDelay(1.2f).setOrientToPath(false).setOnComplete
 		(
-
 			()=>{
-				
 							StartCoroutine(CallMoveRoutine());
-						
 			}
 		);
 	}
 
 
+	public void moveStraight (int trigerInt ) {
+		foreach (Renderer component in rendererComponents)
+		{
+			component.enabled = true;
+		}
+
+		if (destionationObject == null)
+			return;
+
+		IgalsTracking ARTrack = GetComponentInChildren<IgalsTracking>();
+		ARTrack.isAnimating = true;
+
+		scenes [0].VectorCoords [0] = gameObject.transform.position;
+		scenes [0].VectorCoords [3] = destionationObject.transform.position;
+		float destY = destionationObject.transform.position.y;
+		float destX = destionationObject.transform.position.x;
+		float destZ = destionationObject.transform.position.z;
+
+		LeanTween.moveY(gameObject,destY/3,0.5f).setEase(LeanTweenType.easeOutQuad).setDelay(1.2f).setOnComplete
+		(
+			()=>{
+				LeanTween.moveX(gameObject,destX,0.7f).setEase(LeanTweenType.easeOutQuad).setOnComplete(
+					()=>{
+						move(0);
+					}
+				);
+			}
+		);
+	}
 
 	public void RevealDataPart1(float delay) {
 

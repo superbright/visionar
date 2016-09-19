@@ -70,6 +70,7 @@ public class BezierCurveObject : MonoBehaviour {
 
 
 	public void moveStraight (int trigerInt ) {
+		Debug.Log (gameObject.name);
 		foreach (Renderer component in rendererComponents)
 		{
 			component.enabled = true;

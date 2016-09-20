@@ -63,11 +63,11 @@ public class AnimationHandler : MonoBehaviour
 	void OnGUI ()
 	{
 		if (ready) {
-//			if (GUI.Button (new Rect (10, 70, 300, 60), "BEGIN ANIMATION")) {
-//				Destroy (leftMarkerSS);
-//				Destroy (rightMarkerSS);
-//				StartCoroutine (AnimationSequence ());
-//			}
+			if (GUI.Button (new Rect (10, 70, 300, 60), "BEGIN ANIMATION")) {
+				Destroy (leftMarkerSS);
+				Destroy (rightMarkerSS);
+				StartCoroutine (AnimationSequence ());
+			}
 
 		}
 

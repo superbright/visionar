@@ -31,6 +31,7 @@ public class BezierCurveObject : MonoBehaviour {
 		}
 	}
 
+	//final bezier curve call
 	public void move (int trigerInt ) {
 
 		foreach (Renderer component in rendererComponents)
@@ -59,8 +60,9 @@ public class BezierCurveObject : MonoBehaviour {
 		{
 			LeanTween.rotateLocal (gameObject, new Vector3 (0, 25, 0), 0.6f).setEase (LeanTweenType.easeInBack).setDelay(0.2f);
 		}
-			
-		LeanTween.move(gameObject, cr.pts, 0.9f).setEase(LeanTweenType.easeInQuad).setDelay(0.2f).setOrientToPath(false).setOnComplete
+
+		//bezier final move at        (3
+		LeanTween.move(gameObject, cr.pts, 1.2f).setEase(LeanTweenType.easeOutCubic).setDelay(0.2f).setOrientToPath(false).setOnComplete
 		(
 			()=>{
 							StartCoroutine(CallMoveRoutine());
@@ -69,6 +71,10 @@ public class BezierCurveObject : MonoBehaviour {
 	}
 
 
+	/// <summary>
+	/// MOVE OBJECT OUT OF SCENE
+	/// </summary>
+	/// <param name="trigerInt">Triger int.</param>
 	public void moveStraight (int trigerInt ) {
 		Debug.Log (gameObject.name);
 		foreach (Renderer component in rendererComponents)
@@ -88,10 +94,11 @@ public class BezierCurveObject : MonoBehaviour {
 		float destX = destionationObject.transform.position.x;
 		float destZ = destionationObject.transform.position.z;
 
-		LeanTween.moveY(gameObject,destY/1.5f,1.2f).setEase(LeanTweenType.easeOutQuad).setDelay(0f).setOnComplete
+		//move on Y axis 1.2 seconds        (1)
+		LeanTween.moveY(gameObject,destY/1.5f,1.7f).setEase(LeanTweenType.easeOutCirc).setDelay(0f).setOnComplete
 		(
-			()=>{
-				LeanTween.moveX(gameObject,destX,0.7f).setEase(LeanTweenType.easeOutQuad).setOnComplete(
+			()=>{                        // (2)
+				LeanTween.moveX(gameObject,destX,0.6f).setEase(LeanTweenType.easeOutQuad).setOnComplete(
 					()=>{
 						move(0);
 					}

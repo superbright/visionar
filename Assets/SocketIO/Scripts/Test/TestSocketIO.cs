@@ -54,15 +54,17 @@ public class TestSocketIO : MonoBehaviour
 		socket.On("new message", Chat);
 		socket.On("error", TestError);
 		socket.On("close", TestClose);
-		
-		//StartCoroutine("BeepBoop");
+
 	}
 
 	void Update() {
 		if (statusText != null) {
 			if (statusText.text != status) {
 				statusText.text = status;
-				if(status.ToLower() == "connected") socketUIOnCavas.setConnected ();
+				if (status.ToLower () == "connected")
+					socketUIOnCavas.setConnected ();
+				if (status.ToLower () == "on")
+					socketUIOnCavas.startAnimationHandler ();
 			}
 		}
 	}
@@ -108,7 +110,7 @@ public class TestSocketIO : MonoBehaviour
 		}
 
 		//updateText ("Lets Go");
-		status = "Lets Go";
+		status = "on";
 		
 		if (e.data == null) { return; }
 

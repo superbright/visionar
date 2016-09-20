@@ -32,6 +32,6 @@ public class SocketNotificationHandler : MonoBehaviour {
 	}
 
 	public void startAnimationHandler() {
-
+		connecting.GetComponent<Image>().color = Color.white;
 	}
 }

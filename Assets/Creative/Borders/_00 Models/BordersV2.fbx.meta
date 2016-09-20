@@ -231,7 +231,7 @@ ModelImporter:
     - serializedVersion: 16
       name: L4-4toOUTRO
       takeName: C4D Animation Take
-      firstFrame: 0
+      firstFrame: 600
       lastFrame: 5100
       wrapMode: 0
       orientationOffsetY: 0

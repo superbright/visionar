@@ -1,0 +1,854 @@
+fileFormatVersion: 2
+guid: 95c189dc7ac464c259de68a3d537c374
+timeCreated: 1474325894
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 7_pale_green___array_1
+    100002: 7_pale_green___array_1_2
+    100004: 9_red_small___x_2
+    100006: 9_red_small___x_2_2
+    100008: Bilboard1
+    100010: Bilboard2
+    100012: Bilboard3
+    100014: Bilboard3_1
+    100016: Bilboard4
+    100018: //RootNode
+    400000: 7_pale_green___array_1
+    400002: 7_pale_green___array_1_2
+    400004: 9_red_small___x_2
+    400006: 9_red_small___x_2_2
+    400008: Bilboard1
+    400010: Bilboard2
+    400012: Bilboard3
+    400014: Bilboard3_1
+    400016: Bilboard4
+    400018: //RootNode
+    2300000: 7_pale_green___array_1
+    2300002: 7_pale_green___array_1_2
+    2300004: 9_red_small___x_2
+    2300006: 9_red_small___x_2_2
+    2300008: Bilboard1
+    2300010: Bilboard2
+    2300012: Bilboard3
+    2300014: Bilboard3_1
+    2300016: Bilboard4
+    3300000: 7_pale_green___array_1
+    3300002: 7_pale_green___array_1_2
+    3300004: 9_red_small___x_2
+    3300006: 9_red_small___x_2_2
+    3300008: Bilboard1
+    3300010: Bilboard2
+    3300012: Bilboard3
+    3300014: Bilboard3_1
+    3300016: Bilboard4
+    4300000: Bilboard1
+    4300002: 9_red_small___x_2
+    4300004: Bilboard2
+    4300006: 7_pale_green___array_1
+    4300008: Bilboard3
+    4300010: Bilboard3_1
+    4300012: 7_pale_green___array_1_2
+    4300014: Bilboard4
+    4300016: 9_red_small___x_2_2
+    7400000: IDLE
+    7400002: INTRO
+    7400004: L1-1
+    7400006: L1-2
+    7400008: L1-3
+    7400010: L1-4
+    7400012: L2-1
+    7400014: L2-2
+    7400016: L2-3
+    7400018: L2-4
+    7400020: L3-1
+    7400022: L3-2
+    7400024: L3-3
+    7400026: L3-4
+    7400028: L4-1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: IDLE
+      takeName: C4D Animation Take
+      firstFrame: 0
+      lastFrame: 0
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bilboard1
+        weight: 1
+      - path: Bilboard1/9_red_small___x_2
+        weight: 1
+      - path: Bilboard2
+        weight: 1
+      - path: Bilboard2/7_pale_green___array_1
+        weight: 1
+      - path: Bilboard3
+        weight: 1
+      - path: Bilboard3/7_pale_green___array_1_2
+        weight: 1
+      - path: Bilboard3/Bilboard3_1
+        weight: 1
+      - path: Bilboard4
+        weight: 1
+      - path: Bilboard4/9_red_small___x_2_2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: INTRO
+      takeName: C4D Animation Take
+      firstFrame: 0
+      lastFrame: 300
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bilboard1
+        weight: 1
+      - path: Bilboard1/9_red_small___x_2
+        weight: 1
+      - path: Bilboard2
+        weight: 1
+      - path: Bilboard2/7_pale_green___array_1
+        weight: 1
+      - path: Bilboard3
+        weight: 1
+      - path: Bilboard3/7_pale_green___array_1_2
+        weight: 1
+      - path: Bilboard3/Bilboard3_1
+        weight: 1
+      - path: Bilboard4
+        weight: 1
+      - path: Bilboard4/9_red_small___x_2_2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: L1-1
+      takeName: C4D Animation Take
+      firstFrame: 301
+      lastFrame: 600
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bilboard1
+        weight: 1
+      - path: Bilboard1/9_red_small___x_2
+        weight: 1
+      - path: Bilboard2
+        weight: 1
+      - path: Bilboard2/7_pale_green___array_1
+        weight: 1
+      - path: Bilboard3
+        weight: 1
+      - path: Bilboard3/7_pale_green___array_1_2
+        weight: 1
+      - path: Bilboard3/Bilboard3_1
+        weight: 1
+      - path: Bilboard4
+        weight: 1
+      - path: Bilboard4/9_red_small___x_2_2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: L1-2
+      takeName: C4D Animation Take
+      firstFrame: 601
+      lastFrame: 900
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bilboard1
+        weight: 1
+      - path: Bilboard1/9_red_small___x_2
+        weight: 1
+      - path: Bilboard2
+        weight: 1
+      - path: Bilboard2/7_pale_green___array_1
+        weight: 1
+      - path: Bilboard3
+        weight: 1
+      - path: Bilboard3/7_pale_green___array_1_2
+        weight: 1
+      - path: Bilboard3/Bilboard3_1
+        weight: 1
+      - path: Bilboard4
+        weight: 1
+      - path: Bilboard4/9_red_small___x_2_2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: L1-3
+      takeName: C4D Animation Take
+      firstFrame: 901
+      lastFrame: 1200
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bilboard1
+        weight: 1
+      - path: Bilboard1/9_red_small___x_2
+        weight: 1
+      - path: Bilboard2
+        weight: 1
+      - path: Bilboard2/7_pale_green___array_1
+        weight: 1
+      - path: Bilboard3
+        weight: 1
+      - path: Bilboard3/7_pale_green___array_1_2
+        weight: 1
+      - path: Bilboard3/Bilboard3_1
+        weight: 1
+      - path: Bilboard4
+        weight: 1
+      - path: Bilboard4/9_red_small___x_2_2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: L1-4
+      takeName: C4D Animation Take
+      firstFrame: 1201
+      lastFrame: 1500
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bilboard1
+        weight: 1
+      - path: Bilboard1/9_red_small___x_2
+        weight: 1
+      - path: Bilboard2
+        weight: 1
+      - path: Bilboard2/7_pale_green___array_1
+        weight: 1
+      - path: Bilboard3
+        weight: 1
+      - path: Bilboard3/7_pale_green___array_1_2
+        weight: 1
+      - path: Bilboard3/Bilboard3_1
+        weight: 1
+      - path: Bilboard4
+        weight: 1
+      - path: Bilboard4/9_red_small___x_2_2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: L2-1
+      takeName: C4D Animation Take
+      firstFrame: 1501
+      lastFrame: 1800
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bilboard1
+        weight: 1
+      - path: Bilboard1/9_red_small___x_2
+        weight: 1
+      - path: Bilboard2
+        weight: 1
+      - path: Bilboard2/7_pale_green___array_1
+        weight: 1
+      - path: Bilboard3
+        weight: 1
+      - path: Bilboard3/7_pale_green___array_1_2
+        weight: 1
+      - path: Bilboard3/Bilboard3_1
+        weight: 1
+      - path: Bilboard4
+        weight: 1
+      - path: Bilboard4/9_red_small___x_2_2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: L2-2
+      takeName: C4D Animation Take
+      firstFrame: 1801
+      lastFrame: 2100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bilboard1
+        weight: 1
+      - path: Bilboard1/9_red_small___x_2
+        weight: 1
+      - path: Bilboard2
+        weight: 1
+      - path: Bilboard2/7_pale_green___array_1
+        weight: 1
+      - path: Bilboard3
+        weight: 1
+      - path: Bilboard3/7_pale_green___array_1_2
+        weight: 1
+      - path: Bilboard3/Bilboard3_1
+        weight: 1
+      - path: Bilboard4
+        weight: 1
+      - path: Bilboard4/9_red_small___x_2_2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: L2-3
+      takeName: C4D Animation Take
+      firstFrame: 2101
+      lastFrame: 2400
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bilboard1
+        weight: 1
+      - path: Bilboard1/9_red_small___x_2
+        weight: 1
+      - path: Bilboard2
+        weight: 1
+      - path: Bilboard2/7_pale_green___array_1
+        weight: 1
+      - path: Bilboard3
+        weight: 1
+      - path: Bilboard3/7_pale_green___array_1_2
+        weight: 1
+      - path: Bilboard3/Bilboard3_1
+        weight: 1
+      - path: Bilboard4
+        weight: 1
+      - path: Bilboard4/9_red_small___x_2_2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: L2-4
+      takeName: C4D Animation Take
+      firstFrame: 2401
+      lastFrame: 2700
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bilboard1
+        weight: 1
+      - path: Bilboard1/9_red_small___x_2
+        weight: 1
+      - path: Bilboard2
+        weight: 1
+      - path: Bilboard2/7_pale_green___array_1
+        weight: 1
+      - path: Bilboard3
+        weight: 1
+      - path: Bilboard3/7_pale_green___array_1_2
+        weight: 1
+      - path: Bilboard3/Bilboard3_1
+        weight: 1
+      - path: Bilboard4
+        weight: 1
+      - path: Bilboard4/9_red_small___x_2_2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: L3-1
+      takeName: C4D Animation Take
+      firstFrame: 2701
+      lastFrame: 3000
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bilboard1
+        weight: 1
+      - path: Bilboard1/9_red_small___x_2
+        weight: 1
+      - path: Bilboard2
+        weight: 1
+      - path: Bilboard2/7_pale_green___array_1
+        weight: 1
+      - path: Bilboard3
+        weight: 1
+      - path: Bilboard3/7_pale_green___array_1_2
+        weight: 1
+      - path: Bilboard3/Bilboard3_1
+        weight: 1
+      - path: Bilboard4
+        weight: 1
+      - path: Bilboard4/9_red_small___x_2_2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: L3-2
+      takeName: C4D Animation Take
+      firstFrame: 3001
+      lastFrame: 3300
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bilboard1
+        weight: 1
+      - path: Bilboard1/9_red_small___x_2
+        weight: 1
+      - path: Bilboard2
+        weight: 1
+      - path: Bilboard2/7_pale_green___array_1
+        weight: 1
+      - path: Bilboard3
+        weight: 1
+      - path: Bilboard3/7_pale_green___array_1_2
+        weight: 1
+      - path: Bilboard3/Bilboard3_1
+        weight: 1
+      - path: Bilboard4
+        weight: 1
+      - path: Bilboard4/9_red_small___x_2_2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: L3-3
+      takeName: C4D Animation Take
+      firstFrame: 3301
+      lastFrame: 3600
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bilboard1
+        weight: 1
+      - path: Bilboard1/9_red_small___x_2
+        weight: 1
+      - path: Bilboard2
+        weight: 1
+      - path: Bilboard2/7_pale_green___array_1
+        weight: 1
+      - path: Bilboard3
+        weight: 1
+      - path: Bilboard3/7_pale_green___array_1_2
+        weight: 1
+      - path: Bilboard3/Bilboard3_1
+        weight: 1
+      - path: Bilboard4
+        weight: 1
+      - path: Bilboard4/9_red_small___x_2_2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: L3-4
+      takeName: C4D Animation Take
+      firstFrame: 3601
+      lastFrame: 3900
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bilboard1
+        weight: 1
+      - path: Bilboard1/9_red_small___x_2
+        weight: 1
+      - path: Bilboard2
+        weight: 1
+      - path: Bilboard2/7_pale_green___array_1
+        weight: 1
+      - path: Bilboard3
+        weight: 1
+      - path: Bilboard3/7_pale_green___array_1_2
+        weight: 1
+      - path: Bilboard3/Bilboard3_1
+        weight: 1
+      - path: Bilboard4
+        weight: 1
+      - path: Bilboard4/9_red_small___x_2_2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: L4-1
+      takeName: C4D Animation Take
+      firstFrame: 3901.0002
+      lastFrame: 4118
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bilboard1
+        weight: 1
+      - path: Bilboard1/9_red_small___x_2
+        weight: 1
+      - path: Bilboard2
+        weight: 1
+      - path: Bilboard2/7_pale_green___array_1
+        weight: 1
+      - path: Bilboard3
+        weight: 1
+      - path: Bilboard3/7_pale_green___array_1_2
+        weight: 1
+      - path: Bilboard3/Bilboard3_1
+        weight: 1
+      - path: Bilboard4
+        weight: 1
+      - path: Bilboard4/9_red_small___x_2_2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

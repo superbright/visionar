@@ -63,11 +63,11 @@ public class AnimationHandler : MonoBehaviour
 	void OnGUI ()
 	{
 		if (ready) {
-			if (GUI.Button (new Rect (10, 70, 300, 60), "BEGIN ANIMATION")) {
-				Destroy (leftMarkerSS);
-				Destroy (rightMarkerSS);
-				StartCoroutine (AnimationSequence ());
-			}
+//			if (GUI.Button (new Rect (10, 70, 300, 60), "BEGIN ANIMATION")) {
+//				Destroy (leftMarkerSS);
+//				Destroy (rightMarkerSS);
+//				StartCoroutine (AnimationSequence ());
+//			}
 
 		}
 
@@ -137,7 +137,7 @@ public class AnimationHandler : MonoBehaviour
 //			objectsModel1[12].moveStraight (Scene1toInd);
 //			objectsModel1[13].moveStraight (Scene1toInd);
 //		}
-//
+
 
 
 //		if (GUI.Button (new Rect (10, 190, 300, 60), "Move POS Y +5")) {

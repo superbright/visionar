@@ -113,31 +113,31 @@ public class AnimationHandler : MonoBehaviour
 //		}
 //
 
-		if (GUI.Button (new Rect (10, 130, 300, 60), "SCENE1")) {
-			for (int k = 0; k < 3; k++) {
-				objectsModel1[k].moveStraight (Scene1toInd);
-			}
-			objectsModel1[10].moveStraight (Scene1toInd);
-		}
-		if (GUI.Button (new Rect (10, 190, 300, 60), "SCENE2")) {
-			for (int k = 3; k < 5; k++) {
-				objectsModel1[k].moveStraight (Scene1toInd);
-			}
-			objectsModel1[11].moveStraight (Scene1toInd);
-		}
-		if (GUI.Button (new Rect (10, 250, 300, 60), "SCENE3")) {
-			for (int k = 5; k < 8; k++) {
-				objectsModel1[k].moveStraight (Scene1toInd);
-			}
-		}
-		if (GUI.Button (new Rect (10, 310, 300, 60), "SCENE4")) {
-			for (int k = 8; k < 10; k++) {
-				objectsModel1[k].moveStraight (Scene1toInd);
-			}
-			objectsModel1[12].moveStraight (Scene1toInd);
-			objectsModel1[13].moveStraight (Scene1toInd);
-		}
-
+//		if (GUI.Button (new Rect (10, 130, 300, 60), "SCENE1")) {
+//			for (int k = 0; k < 3; k++) {
+//				objectsModel1[k].moveStraight (Scene1toInd);
+//			}
+//			objectsModel1[10].moveStraight (Scene1toInd);
+//		}
+//		if (GUI.Button (new Rect (10, 190, 300, 60), "SCENE2")) {
+//			for (int k = 3; k < 5; k++) {
+//				objectsModel1[k].moveStraight (Scene1toInd);
+//			}
+//			objectsModel1[11].moveStraight (Scene1toInd);
+//		}
+//		if (GUI.Button (new Rect (10, 250, 300, 60), "SCENE3")) {
+//			for (int k = 5; k < 8; k++) {
+//				objectsModel1[k].moveStraight (Scene1toInd);
+//			}
+//		}
+//		if (GUI.Button (new Rect (10, 310, 300, 60), "SCENE4")) {
+//			for (int k = 8; k < 10; k++) {
+//				objectsModel1[k].moveStraight (Scene1toInd);
+//			}
+//			objectsModel1[12].moveStraight (Scene1toInd);
+//			objectsModel1[13].moveStraight (Scene1toInd);
+//		}
+//
 
 
 //		if (GUI.Button (new Rect (10, 190, 300, 60), "Move POS Y +5")) {

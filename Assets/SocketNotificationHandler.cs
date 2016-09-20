@@ -6,6 +6,7 @@ public class SocketNotificationHandler : MonoBehaviour {
 
 	public UnityEngine.UI.Button connecting;
 	public UnityEngine.UI.Button startAnimation;
+	public TMPro.TMP_Text statusText;
 	// Use this for initialization
 	void Start () {
 	
@@ -17,17 +18,17 @@ public class SocketNotificationHandler : MonoBehaviour {
 	}
 
 	public void setConnected() {
-		//connecting.Select ();
-		Debug.Log("connected!");
 		connecting.GetComponent<Image>().color = Color.green;
 		startAnimation.gameObject.SetActive (false);
+		startAnimation.GetComponentInChildren<Text> ().text = "CONNECTED";
 	}
 
 	public void setError() {
 		//connecting.Select ();
-		Debug.Log("connected!");
+		//Debug.Log("connected!");
 		connecting.GetComponent<Image>().color = Color.red;
 		startAnimation.gameObject.SetActive (true);
+		startAnimation.GetComponentInChildren<Text> ().text = "MANUL START";
 	}
 
 	public void startAnimationHandler() {

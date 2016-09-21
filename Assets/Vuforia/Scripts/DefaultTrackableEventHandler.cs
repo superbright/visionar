@@ -20,6 +20,8 @@ namespace Vuforia
     
         #endregion // PRIVATE_MEMBER_VARIABLES
 
+		public GameObject leftMarkerMask;
+		public GameObject rightMarkerMask;
 
 
         #region UNTIY_MONOBEHAVIOUR_METHODS
@@ -85,8 +87,15 @@ namespace Vuforia
                 component.enabled = true;
             }
 
-          //  Debug.Log("Trackable " + mTrackableBehaviour.TrackableName + " found");
+          	 Debug.Log("Trackable " + mTrackableBehaviour.TrackableName + " found");
 
+			if (mTrackableBehaviour.TrackableName == "Final_Marker_V5_RIGHT-01") {
+				rightMarkerMask.SetActive (false);
+			}
+
+			if (mTrackableBehaviour.TrackableName == "Final_Marker_V5_LEFT-01") {
+				leftMarkerMask.SetActive (false);
+			}
 
         }
 
@@ -108,7 +117,14 @@ namespace Vuforia
                 component.enabled = false;
             }
 
-           // Debug.Log("Trackable " + mTrackableBehaviour.TrackableName + " lost");
+           	Debug.Log("Trackable " + mTrackableBehaviour.TrackableName + " lost");
+			if (mTrackableBehaviour.TrackableName == "Final_Marker_V5_RIGHT-01") {
+				rightMarkerMask.SetActive (true);
+			}
+
+			if (mTrackableBehaviour.TrackableName == "Final_Marker_V5_LEFT-01") {
+				leftMarkerMask.SetActive (true);
+			}
         }
 
         #endregion // PRIVATE_METHODS

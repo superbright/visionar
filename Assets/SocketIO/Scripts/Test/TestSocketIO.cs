@@ -51,6 +51,8 @@ public class TestSocketIO : MonoBehaviour
 
 		socket.On("open", TestOpen);
 		socket.On("boop", TestBoop);
+		socket.On("reset", ReloadScene1);
+		socket.On ("map", LoadScene2);
 		socket.On("new message", Chat);
 		socket.On("error", TestError);
 		socket.On("close", TestClose);
@@ -74,7 +76,13 @@ public class TestSocketIO : MonoBehaviour
 		socket.Close ();
 	}
 
+	public void ReloadScene1(SocketIOEvent e) {
+		Application.LoadLevel(0);
+	}
 
+	public void LoadScene2(SocketIOEvent e) {
+		Application.LoadLevel(1);
+	}
 
 	private IEnumerator BeepBoop()
 	{
@@ -91,7 +99,6 @@ public class TestSocketIO : MonoBehaviour
 
 		status = "Connected";
 
-
 	}
 
 	public void Chat(SocketIOEvent e)
@@ -105,9 +112,9 @@ public class TestSocketIO : MonoBehaviour
 
 		if (animHandler != null) {
 			animHandler.letthisfuckerstart ();
-
-
 		}
+
+		socket.Emit("started");
 
 		//updateText ("Lets Go");
 		status = "on";

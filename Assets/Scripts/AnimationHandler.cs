@@ -32,10 +32,9 @@ public class AnimationHandler : MonoBehaviour
 
 	bool ready = true;
 
-	public GameObject map2d;
-	public MapMotion mapmotion;
-
-		
+//	public GameObject map2d;
+//	public MapMotion mapmotion;
+			
 	int IndtoScene1;
 	int Scene1toInd;
 	int IndtoScene2;
@@ -69,6 +68,12 @@ public class AnimationHandler : MonoBehaviour
 				StartCoroutine (AnimationSequence ());
 			}
 
+
+
+		}
+
+		if (GUI.Button (new Rect (10, 120, 300, 60), "Readload Scene")) {
+			Application.LoadLevel(Application.loadedLevel);
 		}
 
 //		if (GUI.Button (new Rect (10, 10, 300, 60), "FINAL MAP SCENE")) {
@@ -113,30 +118,30 @@ public class AnimationHandler : MonoBehaviour
 //		}
 //
 
-		if (GUI.Button (new Rect (10, 130, 300, 60), "SCENE1")) {
-			for (int k = 0; k < 3; k++) {
-				objectsModel1[k].moveStraight (Scene1toInd);
-			}
-			objectsModel1[10].moveStraight (Scene1toInd);
-		}
-		if (GUI.Button (new Rect (10, 190, 300, 60), "SCENE2")) {
-			for (int k = 3; k < 5; k++) {
-				objectsModel1[k].moveStraight (Scene1toInd);
-			}
-			objectsModel1[11].moveStraight (Scene1toInd);
-		}
-		if (GUI.Button (new Rect (10, 250, 300, 60), "SCENE3")) {
-			for (int k = 5; k < 8; k++) {
-				objectsModel1[k].moveStraight (Scene1toInd);
-			}
-		}
-		if (GUI.Button (new Rect (10, 310, 300, 60), "SCENE4")) {
-			for (int k = 8; k < 10; k++) {
-				objectsModel1[k].moveStraight (Scene1toInd);
-			}
-			objectsModel1[12].moveStraight (Scene1toInd);
-			objectsModel1[13].moveStraight (Scene1toInd);
-		}
+//		if (GUI.Button (new Rect (10, 130, 300, 60), "SCENE1")) {
+//			for (int k = 0; k < 3; k++) {
+//				objectsModel1[k].moveStraight (Scene1toInd);
+//			}
+//			objectsModel1[10].moveStraight (Scene1toInd);
+//		}
+//		if (GUI.Button (new Rect (10, 190, 300, 60), "SCENE2")) {
+//			for (int k = 3; k < 5; k++) {
+//				objectsModel1[k].moveStraight (Scene1toInd);
+//			}
+//			objectsModel1[11].moveStraight (Scene1toInd);
+//		}
+//		if (GUI.Button (new Rect (10, 250, 300, 60), "SCENE3")) {
+//			for (int k = 5; k < 8; k++) {
+//				objectsModel1[k].moveStraight (Scene1toInd);
+//			}
+//		}
+//		if (GUI.Button (new Rect (10, 310, 300, 60), "SCENE4")) {
+//			for (int k = 8; k < 10; k++) {
+//				objectsModel1[k].moveStraight (Scene1toInd);
+//			}
+//			objectsModel1[12].moveStraight (Scene1toInd);
+//			objectsModel1[13].moveStraight (Scene1toInd);
+//		}
 
 
 
@@ -187,8 +192,6 @@ public class AnimationHandler : MonoBehaviour
 			return;
 
 		objectsModel1[id-1].moveStraight (Scene1toInd);
-		//objectsModel1[id-1].move (Scene1toInd);
-
 	}
 
 	/// <summary>
@@ -203,6 +206,10 @@ public class AnimationHandler : MonoBehaviour
 
 	public IEnumerator AnimationSequence() {
 		ready = false;
+
+//		if (totalScenes > 15) {
+//			Application.LoadLevel(1);
+//		}
 
 		string trigger = getTriggername (currentScene);
 
@@ -222,8 +229,8 @@ public class AnimationHandler : MonoBehaviour
 			currentModel++;
 		}
 
-		StartCoroutine (AnimationSequence ());
 
+		StartCoroutine (AnimationSequence ());
 	}
 		
 

@@ -18,11 +18,11 @@ public class UIManager : MonoBehaviour {
 	private void OnGUI()
 	{
 
-		if (GUI.Button (new Rect (10, 10, 300, 60), "AR SCENE")) {
-			mappanel.SetActive (false);
-			Application.LoadLevel (0);
-
-		}
+//		if (GUI.Button (new Rect (10, 10, 300, 60), "AR SCENE")) {
+//			mappanel.SetActive (false);
+//			Application.LoadLevel (0);
+//
+//		}
 	}
 	void OnLevelWasLoaded() {
 		//mappanel.SetActive (true);

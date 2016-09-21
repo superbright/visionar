@@ -28,10 +28,12 @@ public class SocketNotificationHandler : MonoBehaviour {
 		//Debug.Log("connected!");
 		connecting.GetComponent<Image>().color = Color.red;
 		startAnimation.gameObject.SetActive (true);
-		startAnimation.GetComponentInChildren<Text> ().text = "MANUL START";
+		//startAnimation.GetComponentInChildren<Text> ().text = "MANUL START";
 	}
 
 	public void startAnimationHandler() {
 		connecting.GetComponent<Image>().color = Color.white;
 	}
+
+
 }

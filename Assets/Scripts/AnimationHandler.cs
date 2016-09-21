@@ -29,6 +29,7 @@ public class AnimationHandler : MonoBehaviour
 	public Animator RightBorder;
 
 	public UnityEngine.UI.Text sceneid;
+	public UnityEngine.UI.Button startButton;
 
 	bool ready = true;
 
@@ -62,20 +63,20 @@ public class AnimationHandler : MonoBehaviour
 	void OnGUI ()
 	{
 		if (ready) {
-			if (GUI.Button (new Rect (10, 70, 300, 60), "BEGIN ANIMATION")) {
-				Destroy (leftMarkerSS);
-				Destroy (rightMarkerSS);
-				StartCoroutine (AnimationSequence ());
-			}
-
+//			if (GUI.Button (new Rect (10, 70, 300, 60), "BEGIN ANIMATION")) {
+//				Destroy (leftMarkerSS);
+//				Destroy (rightMarkerSS);
+//				StartCoroutine (AnimationSequence ());
+//			}
+//
 
 
 		}
-
-		if (GUI.Button (new Rect (10, 120, 300, 60), "Readload Scene")) {
-			Application.LoadLevel(Application.loadedLevel);
-		}
-
+//
+//		if (GUI.Button (new Rect (10, 120, 300, 60), "Readload Scene")) {
+//			Application.LoadLevel(Application.loadedLevel);
+//		}
+//
 //		if (GUI.Button (new Rect (10, 10, 300, 60), "FINAL MAP SCENE")) {
 //			Application.LoadLevel(1);
 //			//mapmotion.animateforward ();
@@ -181,6 +182,7 @@ public class AnimationHandler : MonoBehaviour
 	public void letthisfuckerstart() {
 		leftMarkerSS.SetActive (false);
 		rightMarkerSS.SetActive (false);
+		startButton.gameObject.SetActive (false);
 		Destroy (leftMarkerSS);
 		Destroy (rightMarkerSS);
 
@@ -207,9 +209,7 @@ public class AnimationHandler : MonoBehaviour
 	public IEnumerator AnimationSequence() {
 		ready = false;
 
-//		if (totalScenes > 15) {
-//			Application.LoadLevel(1);
-//		}
+
 
 		string trigger = getTriggername (currentScene);
 
@@ -225,12 +225,14 @@ public class AnimationHandler : MonoBehaviour
 		yield return new WaitForSeconds(10.0f);
 		currentScene++;
 
-		if (currentScene % 4 == 0) {
-			currentModel++;
+//		if (currentScene % 4 == 0) {
+//			currentModel++;
+//		}
+
+		if (currentScene < 18) {
+				StartCoroutine (AnimationSequence ());
 		}
 
-
-		StartCoroutine (AnimationSequence ());
 	}
 		
 

@@ -90,11 +90,13 @@ namespace Vuforia
           	 Debug.Log("Trackable " + mTrackableBehaviour.TrackableName + " found");
 
 			if (mTrackableBehaviour.TrackableName == "Final_Marker_V5_RIGHT-01") {
-				rightMarkerMask.SetActive (false);
+				if(rightMarkerMask != null)
+					rightMarkerMask.SetActive (false);
 			}
 
 			if (mTrackableBehaviour.TrackableName == "Final_Marker_V5_LEFT-01") {
-				leftMarkerMask.SetActive (false);
+				if(leftMarkerMask != null)
+					leftMarkerMask.SetActive (false);
 			}
 
         }
@@ -119,11 +121,13 @@ namespace Vuforia
 
            	Debug.Log("Trackable " + mTrackableBehaviour.TrackableName + " lost");
 			if (mTrackableBehaviour.TrackableName == "Final_Marker_V5_RIGHT-01") {
-				rightMarkerMask.SetActive (true);
+				if(rightMarkerMask != null)
+					rightMarkerMask.SetActive (true);
 			}
 
 			if (mTrackableBehaviour.TrackableName == "Final_Marker_V5_LEFT-01") {
-				leftMarkerMask.SetActive (true);
+				if(leftMarkerMask != null)
+					leftMarkerMask.SetActive (true);
 			}
         }
 

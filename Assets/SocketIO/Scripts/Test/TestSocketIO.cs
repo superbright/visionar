@@ -67,6 +67,8 @@ public class TestSocketIO : MonoBehaviour
 					socketUIOnCavas.setConnected ();
 				if (status.ToLower () == "on")
 					socketUIOnCavas.startAnimationHandler ();
+				if (status.ToLower () == "error")
+					socketUIOnCavas.setError ();
 			}
 		}
 	}
@@ -132,7 +134,7 @@ public class TestSocketIO : MonoBehaviour
 	{
 		Debug.Log("[SocketIO] Error received: " + e.name + " " + e.data);
 
-		status = "Error " + e.data;
+		status = "error";
 	}
 	
 	public void TestClose(SocketIOEvent e)

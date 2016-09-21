@@ -124,11 +124,11 @@ namespace SocketIO
 			if (autoConnect) { Connect(); }
 		}
 
-		public void OnEnable() {
-			if (!ws.IsConnected) { 
-				Connect(); 
-			}
+
+		public void ConnecThatStuff() {
+			Connect();
 		}
+			
 
 		public void Update()
 		{

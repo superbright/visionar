@@ -32,7 +32,23 @@ public static class AppState
 	{
 		PRODUCT1 = 0,
 		PRODUCT2 = 1,
-		PRODUCT3 = 2
+		PRODUCT3 = 2,
+
+		PRODUCT4 = 3,
+		PRODUCT5 = 4,
+		PRODUCT6 = 5,
+
+		PRODUCT7 = 6,
+		PRODUCT8 = 7,
+		PRODUCT9 = 8,
+
+		PRODUCT10 = 9,
+		PRODUCT11 = 10,
+		PRODUCT12 = 11,
+
+
+
+		
 	}
 
 	public enum APPSTATES
@@ -105,11 +121,31 @@ public static class AppState
 	};
 
 	public static Dictionary<PRODUCTS,XadPath> ProductAddress = new Dictionary<PRODUCTS,XadPath> () {
-		{ PRODUCTS.PRODUCT1, new XadPath("537 W 27th St New York, NY","37 North Moore Street, New York, NY 10013 ") },
-		{ PRODUCTS.PRODUCT2, new XadPath("537 W 27th St New York, NY","1 East 1st St, NYC 10003") },
-		{ PRODUCTS.PRODUCT3, new XadPath("537 W 27th St New York, NY","361 Stagg st, Brooklyn, NY") }
+		
+		{ PRODUCTS.PRODUCT1, new XadPath("537 W 27th St New York, NY","1281 Madison Ave, New York, NY 10128") }, //OTTE \\ Neighborhood : Madison Square
+
+		{ PRODUCTS.PRODUCT2, new XadPath("537 W 27th St New York, NY","35 Howard St, New York, NY 10013") },// OPENING CEREMONY \\ Neighborhood : Soho
+	
+		{ PRODUCTS.PRODUCT3, new XadPath("537 W 27th St New York, NY","170 Ludlow St, New York, NY 10002") }, //  ASSEMBLY \\ Neighborhood: Lower East Side
+
+		{ PRODUCTS.PRODUCT4, new XadPath("537 W 27th St New York, NY","18 E 69th St, New York, NY 10065") }, // FIVESTORY \\Neighborhood: Upper East Side
+
+		{ PRODUCTS.PRODUCT5, new XadPath("537 W 27th St New York, NY","160 Lexington Ave, New York, NY 10016") }, //DOVER STREET MARKET \\Neighborhood: Kips Bay
+
+		{ PRODUCTS.PRODUCT6, new XadPath("537 W 27th St New York, NY","1 East 1st Street, New York, NY 10003") }, //BLUE AND CREAM   \\ Neighborhood: East Village
+
+		{ PRODUCTS.PRODUCT7, new XadPath("537 W 27th St New York, NY","2151 Broadway, New York, NY 10023 ") }, //BARNEYS || Neighborhood: Upper West Side
+
+		{ PRODUCTS.PRODUCT8, new XadPath("537 W 27th St New York, NY","121 Greenwich Ave, New York, NY 10014") },  //OTTE \\ Neighborhood : West Village
+
+		{ PRODUCTS.PRODUCT9, new XadPath("537 W 27th St New York, NY","101 7th Ave, New York, NY 10011") }, //BARNEYS || Neighborhood: Chelsea
+
+		{ PRODUCTS.PRODUCT10, new XadPath("537 W 27th St New York, NY","1232 3rd Ave, New York, NY 10021") },  //OTTE \\ Neighborhood : Upper East Side
+
+		{ PRODUCTS.PRODUCT11, new XadPath("537 W 27th St New York, NY","660 Madison Ave, New York, NY 10065") },  //BARNEYS \\ Neighborhood : Mid Town
+
+		{ PRODUCTS.PRODUCT12, new XadPath("537 W 27th St New York, NY","37 W 26th St, New York, NY 10010") }, //OTTE \\ Neighborhood : Mid Town
+
 	};
-
-
 
 }

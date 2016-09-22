@@ -19,8 +19,8 @@ public class SocketNotificationHandler : MonoBehaviour {
 
 	public void setConnected() {
 		connecting.GetComponent<Image>().color = Color.green;
-		startAnimation.gameObject.SetActive (false);
-		startAnimation.GetComponentInChildren<Text> ().text = "CONNECTED";
+
+		//startAnimation.GetComponentInChildren<Text> ().text = "CONNECTED";
 	}
 
 	public void setError() {
@@ -33,6 +33,7 @@ public class SocketNotificationHandler : MonoBehaviour {
 
 	public void startAnimationHandler() {
 		connecting.GetComponent<Image>().color = Color.white;
+		startAnimation.gameObject.SetActive (false);
 	}
 
 
